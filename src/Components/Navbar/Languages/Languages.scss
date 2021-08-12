@@ -1,0 +1,13 @@
+.languages-div {
+    display: flex;
+}
+
+.language-selector {
+    width: 80%;
+}
+
+@media screen and (max-width: 1400px) {
+    .languages-div {
+      display: none;
+    }
+}

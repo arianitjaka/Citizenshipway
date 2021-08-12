@@ -1,0 +1,374 @@
+{
+    "Home":"Ballina",
+    "About" : "Rreth nesh",
+    "Citizenship" : "Shtetësia",
+    "Residency":"Rezidenca",
+    "Countries":"Vendet",
+    "Resources":"Burimet",
+    "Contact":"Kontakti",
+
+
+
+    "HeaderTitle":"Investoni në të ardhmen tuaj",
+    "HeaderParagraph":"Jeni të interesuar për shtetësinë ose qëndrimin në Evropë, Amerikën e Veriut ose Karaibet? A doni të krijoni një bazë alternative dhe personale? Ne jemi këtu për t'ju ndihmuar të bëni atë të ndodhë.",
+    "HeaderButton":"Rezervoni një Konsultë",
+
+
+
+    "GlobalCitizens":"Qytetarët Global",
+    "GCParagraph" : "Cintzienshipway është lider global në planifikimin e qëndrimit dhe shtetësisë. Çdo vit, qindra individë të pasur dhe këshilltarët e tyre mbështeten në ekspertizën dhe përvojën tonë në këtë fushë. Profesionistët shumë të kualifikuar të firmës punojnë së bashku si një ekip në mbi 30 vende të botës.",
+    "GCButton" : "Mëso më shumë",
+    "GCRightText" : "Asnjë ndërmjetës. Ekip i licencuar, ekspert.",
+
+
+
+    "Services":"Shërbimet",
+    "CitizenshipByInvestments":"Shtetësia nga Investimet",
+    "CBIParagraph":"Ne mbulojmë të gjithë shtetësinë kryesore nga programet e investimeve. Dëshiron një pasaportë të dytë? Na kontaktoni për një konsultë falas.",
+    "ResidencePermits":"Lejet e Qëndrimit",
+    "RPParagraph":"Ne ofrojmë shërbime të planifikimit të qëndrimit dhe i ndihmojmë klientët tanë të marrin një leje qëndrimi në vendin e tyre të preferuar.",
+    "AdvisoryComplienceServices":"Shërbime këshilluese dhe pajtueshmërie",
+    "ACSParagraph":"Ne ju ndihmojmë të maksimizoni përputhjen e kompanisë suaj me rregullat, rregulloret dhe kërkesat lokale.",
+
+
+
+    "EnhanceYourTravelFreedom":"Përmirësoni lirinë tuaj të udhëtimit",
+    "EYTFPragraph":"Vetëm nëntë vende ofrojnë programe të shtetësisë që ofrojnë një rrugë të drejtpërdrejtë drejt shtetësisë bazuar në investime dhe një proces të plotë të shkallës së kujdesit të duhur.",
+    "EYTFPButton": "Opsioni i Shtetësisë",
+    "ExpandYourGlobalFootprint":"Zgjero gjurmën tënde globale",
+    "EYGFParagraph":"Citizenshipway përqendrohet në programet më tërheqëse të qëndrimit në botë duke marrë parasysh cilësinë e jetës, lëvizshmërinë, taksat, privatësinë dhe sigurinë.",
+    "EYGFPButton": "Opsioni i vendbanimit",
+
+
+
+    "Programs":"PROGRAMET",
+    "CitizenshipOption" : "Shtetësia",
+    "ResidenceOption" : "Vendbanimi",
+
+    "VanatuCity":"VANUATU",
+    "VanatuInfo":"Shtetësia e Vanuatut gjithnjë e më shumë popullore për klientët aziatikë Mesatarja e 2 muajve kohë e përpunimit",
+    "VanatuPrice":"Nga US$ 150,000",
+
+    "GrenadaCity":"GRENADA",
+    "GrenadaInfo":"Shtetësia e Komonuelthit Hyrja pa viza Evropa, Rusia dhe Kina Kualifikohen për aplikim për vizë E-2 në SHBA",
+    "GreanadaPrice":"Nga US$ 250,000",
+
+    "AustriaCity":"AUSTRIA",
+    "AustriaInfo":"Shtetësia austriake Një nga pasaportat më të forta në botë Mesatarja 4 muaj kohë e përpunimit",
+    "AustriaPrice":"Nga EUR 3 million",
+
+    "AntiguaBarbudaCity":"ANTIGUA DHE BARBUDA",
+    "AntiguaBarbudaInfo":"Qytetaria e Komonuelthit Vlera më e mirë e programeve Karaibe Mesatarja e 4 muajve kohë e përpunimit",
+    "AntiguaBarbudaPrice":"Nga US$ 150,000",
+
+    "DominicaCity":"DOMINICA",
+    "DominicaInfo":"Shtetësia e Komonuelthit Opsioni popullor Mesatarja 2 muaj kohë e përpunimit",
+    "DominicaPrice":"Nga US$ 135,000",
+
+    "MaltaCity":"MALTA",
+    "MaltaInfo":"Qytetaria evropiane Programi më i popullarizuar evropian Mesatarja 12-14 muaj kohë e përpunimit",
+    "MaltaPrice":"Nga EUR 850,000",
+
+    "StLuciaCity":"ST. LUCIA",
+    "StLuciaInfo":"Shtetësia e Komonuelthit Programet më të reja të Karaibeve Mesatarja 6-8 muaj kohë e përpunimit",
+    "StLuciaPrice":"Nga US$ 100,000",
+
+    "StKittsNevisCity":"ST. KITTS & NEVIS",
+    "StKittsNevisInfo":"Qytetaria e Komonuelthit Programet më të vjetra të Karaibeve Mesatarja 4 muaj kohë e përpunimit",
+    "StKittsNevisPrice":"Nga US$ 150,000",
+
+    "ProgramsButton": "Shiko te gjitha",
+
+
+
+    "WhyCitizenshipway":"Pse Citizenshipway",
+    "WhyCitizenshipwayParagraph" : "Çdo ditë, klientë individualë si dhe këshilltarë të tjerë të pasurisë në mbarë botën mbështeten tek ne për këshilla mbi çështjet e qëndrimit ndërkombëtar dhe shtetësisë.",
+    
+    "LicencedAgents" : "Agjentë të licencuar",
+    "LicencedAgentsParagraph":"Ne punojmë drejtpërdrejt me qeverinë dhe partnerët në terren në juridiksion.",
+
+    "TailoredSolutions":"Zgjidhje të Përshtatura",
+    "TailoredSolutionsParagraph":"Secili nga klientët tanë është unik dhe ne i përshtatim zgjidhjet tona sipas kërkesave tuaja.",
+
+    "ApplyInConfidence":"Aplikoni në Besim",
+    "ApplyInConfidenceParagraph":"Ne do të përfaqësojmë vetëm aplikacione për të cilët kemi besim se do të jemi të suksesshëm dhe do t'i vëzhgojmë me përpikëri.",
+    
+
+
+    "LatestNews":"LAJMET E FUNDIT",
+
+    "LNLeftDate" : "Jan 8, 2021",
+    "LNLeftTitle" : "Si mund të filloj me pasaportat e dyta për familjen time dhe cila është më e mira?",
+    "LNLeftParagraph":"KAL KENNARD, PARTNER Duke vizituar shumë prej ishujve të Karaibeve ...",
+
+    "LNCenterDate":"Jan 7, 2021",
+    "LNCenterTitle":"Rënia e Lirisë",
+    "LNCenterParagraph":"Autoritetet e Qipros në përpjekje për të mbajtur konkurrencën përshtatën Qipron ...",
+
+    "LNRightDate":"Jan 8, 2021",
+    "LNRightTitle":"Tre Inovacione në Migracionin e Investimeve në Karaibe",
+    "LNRightParagraph":"Kombet ishuj të Karaibeve kanë qenë veçanërisht inovative në përgjigje të pandemisë globale ...",
+
+
+    "LNLink":"Lexo më shumë",
+
+
+
+    "Testimonials":"DESHMITARET",
+    "TestimonialsInfo" : "Procesi i shkresave shkoi normalisht, gjë që ishte shqetësimi im më i madh. Ju shkuat mbi dhe përtej në mbajtjen e aplikacionit tonë në rrugën e duhur, kështu që faleminderit për këtë. Ne mezi po presim vizitën tonë në dhjetor.",
+    "TestimonialsDate" : "SHBA, Tetor 2020",
+
+
+
+    "AboutTitle":"Rreth Nesh",
+    "AboutParagraph" : "Citizenshipway është një ofrues shumë i vlerësuar i besimit dhe shërbimeve të korporatave i specializuar në një planifikim tatimor multi-juridiksional, mbrojtje të pasurive dhe struktura efikase të taksave.",
+
+    
+
+    "ValuesTitle" : "VLERAT",
+    "ValueLeftTitle" : "Besim",
+    "ValueLeftParagraph":"Ne regjistrojmë llogari vjetore dhe jemi transparentë me çështjet tona financiare siç kërkohet nga Ligji për Kompanitë.",
+    "ValueCenterTitle":"Lidhje",
+    "ValueCenterParagraph":"Ne kemi mbi 15 vjet përvojë që operojmë këtu në vende të ndryshme me programe tërheqëse të qëndrimit dhe shtetësisë.",
+    "ValueRightTitle":"Konfidencialiteti",
+    "ValueRightParagraph":"Ne i kuptojmë nevojat tuaja dhe ne e kuptojmë natyrën dhe konfidencialitetin e çdo informacioni në të cilin jemi palë.",
+
+
+
+    "Story":"HISTORI",
+    "StoryTitle" : "Historia Jonë",
+    "StoryParagraph" : "Ndërsa globalizimi është zgjeruar, vendbanimi dhe shtetësia janë bërë tema me interes të konsiderueshëm në mesin e numrit në rritje të sipërmarrësve dhe investitorëve të lëvizshëm ndërkombëtarë të cilëve u shërbejmë me krenari çdo ditë. Ne kemi qenë të përfshirë në konsultime strategjike dhe hartimin, vendosjen dhe funksionimin e programeve më të suksesshme të qëndrimit dhe shtetësisë në botë.",
+    "StoryButton":"Lexoni historinë e plotë",
+    
+
+
+    "CCLeftTitle":"NE E DIJMË JETËN E NJË QYTETARI NDËRKOMBËTAR QË ECËN MIDIS VENDEVE DHE KULTURAVE.",
+    "CCRightTitle" : "Ne synojmë t'i ofrojmë secilit klient zgjidhje inovative për problemet dhe idetë e reja nga të cilat varet suksesi i vërtetë. Kjo do të thotë punë e gjatë dhe e vështirë, vëmendje ndaj çdo detaji dhe përgjigje e shpejtë ndaj problemeve.",
+    "CCLeftColumn" : "Themeluesi dhe sipërmarrësi i Citizenshipway krijon Programin për të rritur investimet e qytetarisë për industri të ndryshme, përkatësisht akuakulturë dhe zhvillimin e turizmit.",
+    "CCCenterColumn":"Me partnerë kryesorë dhe investime në vende të ndryshme ne jemi partnerë me qeveritë për të lobuar dhe edukuar parlamentarët dhe vendin për programin e mundshëm.",
+    "CCRightColumn":"Ne ofrojmë një sërë shërbimesh që janë thelbësore për të mbrojtur dhe rritur pasurinë tuaj. Tani përfaqësojmë programe rezidenciale në 30 vende të ndryshme në mbarë botën me Programin Citizenship by Investment.",
+    
+
+
+    "OurPurpose":"Qëllimi Ynë",
+    "OurPurposeParagraph" : "Ne punojmë drejt një bote ku një fluks i ndjeshëm njerëzish dhe kapitali midis vendeve - për tregti, turizëm, punë dhe investime - kontribuon në paqen dhe prosperitetin global dhe ku njerëzit jetojnë me dinjitet dhe siguri në vendet e tyre të lindjes ose vendet e zgjedhura.",
+    "OurPurposeLeft" : "Rritja e potencialit njerëzor përmes qytetarisë globale",
+
+
+
+    "KeyPeople":"NJEREZIT KRYESOR",
+    "MeetTheTeam" : "Njihuni me ekipin",
+    "KPLeft" : "NJERËZIT JANË ATA PROFESIONISTË TË LARTË, TË REKRUTUAR ME KUJDES DHE TË TRAJNUAR NË MËNYRË TË PËRSHTATSHME.",
+    "KPRight":"Duke mbledhur një ekip profesionistësh ndërkombëtarë, ne ofrojmë një urë të kompetencës ndërkombëtare për klientët që aplikojnë për nënshtetësi ose qëndrim ose të cilët dëshirojnë një pikëmbështetje në Karaibe, Qipro, Maltë dhe shumë më tepër. Ekipi ynë janë të gjithë vetë shtetas ndërkombëtarë me shumë shtetësi.",
+    
+    "KPSpecialTitle":"THEMELUESI",
+    "KPSpecialName":"LAURA ALAN",
+    "KPSpecialInfo":"Laura Alan është themeluese e Citizenshipway dhe lindi në Irlandë dhe u rrit në Kanada. Vjen nga një familje sipërmarrëse Brian filloi biznesin e tij 20 vjet më parë dhe ka pasur sukses të konsiderueshëm ndërkombëtarisht në zhvillimin dhe shitjet e pronave.",
+    "KPSpecialButton":"Lexo bio",
+
+    "KPName1":"IVOR BROWN",
+    "KPJob1":"PARTNERI DREJTUES",
+    "KPName2":"OLIVIA WALKER",
+    "KPJob2":"PARTNER",
+    "KPName3":"HARRY GRAHAM",
+    "KPJob3":"DREJTORI (ANTIGUA)",
+    "KPName4":"KEVIN RUTHERGORD",
+    "KPJob4":"KONSULTUESI I LARTI I SHTETENSIS",
+    "KPName5":"FIONA MITCHELL",
+    "KPJob5":"DREJTORI (Ishujt Kajman)",
+    "KPName6":"PETER DAVIES",
+    "KPJob6":"DREJTORI (DUBAI)",
+    "KPName7":"HANNAH GIBSON",
+    "KPJob7":"DREJTORI (EUROPE)",
+
+    "KPButton":"Shiko te gjitha",
+
+
+
+    "Offices":"ZYRA",
+    "WorldwideOffices" : "Zyrat në të gjithë botën",
+    "AntiguaAndBarbuda" : "Antigua dhe Barbuda",
+    "Grenada":"Grenada",
+    "Malta":"Malta",
+    "Cyprus":"Qipro",
+    "DubaiUAE":"Dubai (UAE)",
+    "StKittsNevis":"St. Kitts and Nevis",
+    "StLucia":"St. Lucia",
+
+    "OfficesButton":"Shiko te gjitha",
+
+
+
+    "CitizenshipTitle":"Shtetësia me investime",
+    "CitizenshipParagraph" : "Shtetësia nga programet e investimeve do t'u japë shtetësi të menjëhershme aplikantëve dhe familjeve të tyre. Kjo do të thotë kualifikim për një pasaportë të dytë dhe kështu popullariteti i tyre i pabesueshëm në mesin e klientëve tanë për mundësitë e udhëtimit ndërkombëtar që ata paraqesin.",
+    
+    
+    
+    "CitizenshipByInvestment" : "Shtetësia me Investime",
+    "CBIParagraphh":"Një numër në rritje i vendeve tani ofrojnë programe investitorësh emigrantë, duke shkëmbyer të drejtat e qëndrimit ose shtetësinë për një investim të konsiderueshëm në ekonomitë e tyre. Nga 'mjete monetare për nënshtetësi' te stimuj për të investuar në biznese ose prona të sektorit privat, tregu për imigrimin e investitorëve është bërë gjithnjë e më i larmishëm.",
+    "CBIButton":"Kërkimi i Klientit Privat",
+
+
+
+    "CitizenshipPlanning":"Planifikimi i Qytetarisë",
+
+    "CitizenshipByInvestmentOverview":"Pasqyrë e Qytetarisë nga Investimi",
+    "CBIOParagraph":"Programet e shtetësisë nga investimi ju ofrojnë mundësinë për të fituar legalisht një shtetësi të re shpejt dhe thjesht, pa procese të vështira tipike për viza dhe pasaporta.",
+    
+    "WhyCitizenshipByInvestment":"Pse shtetësia nga investimi?",
+    "WhyCBIParagraph":"Në një botë të paqëndrueshme, gjithnjë në ndryshim, marrja e një shtetësie alternative është një vendim i mençur dhe një investim për të ardhmen.",
+    
+    "ImportantPoints":"Pikat e Rëndësishme",
+    "IPParagraph":"Shtetësia është forma më e privilegjuar e kombësisë, një term më i gjerë që përdoret në të drejtën ndërkombëtare për të treguar të gjithë personat që një shtet ka të drejtë të mbrojë.",
+
+    "CPButton":"Lexo më shumë",
+
+
+
+    "PermanentResidencePermit":"Leja e Qëndrimit të Përhershëm",
+    "PRPParagraph" : "Një alternativë tërheqëse për marrjen e një shtetësie të dytë me anë të investimeve është marrja e një leje qëndrimi të përhershme ose një vizë afatgjatë. Kjo është ajo ku ju dhe familja juaj mund të aplikoni për qëndrim të përhershëm në një vend duke bërë një investim ose blerjen e një prone.",
+    
+    
+    
+    "ResidenceByInvestment" : "Vendbanimi nga Investimi",
+    "RBIParagraph":"Programet e rezidencës nga investimi u sigurojnë individëve me vlerë të lartë neto (HNWI) mundësinë e zhvendosjes dhe të drejtën për të jetuar, punuar, studiuar dhe marrë kujdes shëndetësor në vendin e tyre të ri të banimit. Citizenshipway ofron programe qëndrimi nga investimi në disa nga vendet kryesore të botës për sa i përket mjedisit të biznesit, cilësisë së jetës dhe mundësisë së marrjes së shtetësisë.",
+    "RBIButton":"Kërkimi i Klientit Privat",
+    
+    
+    
+    "AustriaParagraph":"Mësoni si të bëheni një rezident i përhershëm në Austri dhe të merrni një leje qëndrimi të përhershme.",
+
+    "CyprusCity":"QIPRO",
+    "CyprusParagraph":"Merrni Qëndrim të Përhershëm të Qipros në vetëm dy muaj!",
+
+    "GreeceCity":"GREQI",
+    "GreeceParagraph":"Mësoni më shumë se si mund të merrni një leje qëndrimi në Greqi.",
+
+    "MaltaParagraph":"Merrni qëndrim të përhershëm në Maltë përmes Programit të Rezidencës dhe Vizave.",
+
+    "PortugalCity":"PORTUGALI",
+    "PortugalParagraph":"Programi është një rrugë për të udhëtuar pa viza në Zonën Shengen të Evropës dhe ofron të drejtën për të jetuar, punuar dhe studiuar në Portugali.",
+    
+    "UAECity":"Emiratet e Bashkuara Arabe",
+    "UAEParagraph":"(Emiratet e Bashkuara Arabe) gjithnjë e më shumë është shfaqur si një nga juridiksionet më të njohura në të gjithë botën për qëndrim.",
+
+    "AustraliaCity":"AUSTRALIA",
+    "AustraliaParagraph":"Australia është një destinacion kryesor për inovatorët e biznesit global që kërkojnë një cilësi të lartë të jetës.",
+
+    "NewZealandCity":"ZELANDA E RE",
+    "NewZealandParagraph":"Zelanda e Re premton një standard të lartë të jetesës dhe stabilitetit ekonomik, politik dhe shoqëror.",
+
+    "ProgramsButton2":"Mëso më shumë",
+
+
+
+    "ResidencePlanning":"Planifikimi i Vendbanimit",
+    "RPTitle" : "Planifikimi i Vendbanimit",
+    "RPParagraphh" : "Çdo ditë, klientë dhe familje private individuale, së bashku me këshilltarët e tyre të besuar në të gjithë botën, mbështeten tek ne për njohuritë tona të specializuara në zgjidhjet ndërkombëtare të qëndrimit.",
+    "IPTitle":"Pikat e Rëndësishme",
+    "IPParagraphh":"Një ndryshim i vendbanimit në një vend të përshtatshëm është një aspekt gjithnjë e më i rëndësishëm i planifikimit ndërkombëtar për klientët privatë.",
+    "REOTitle":"Pasqyrë e Pasurive të Patundshme",
+    "REOParagraph":"Blerja e pasurive të patundshme jashtë vendit është një komponent i rëndësishëm në planifikimin e qëndrimit dhe shtetësisë. Sidoqoftë, kjo kërkon vëmendje të kujdesshme dhe profesionale.",
+
+
+
+    "InvestmentMigrationCountries":"Vendet e Migracionit të Investimeve",
+    "IMCParagraph" : "Klientët tanë dhe këshilltarët e tyre njohin vlerën e një vendbanimi dhe / ose shtetësie alternative si një shtyllë e rëndësishme për mirëqenien dhe të ardhmen e familjeve të tyre.",
+    
+    
+    
+    "PrivateClients" : "Klientë Privatë",
+    "PCParagraph":"Klientët e Citizenshipway përfshijnë individë dhe familje me vlerë të lartë dhe me vlerë të lartë neto, sipërmarrës dhe investitorë, si dhe menaxherë të nivelit të lartë, artistë dhe njerëz të famshëm të botës së modës, argëtimit dhe sporteve.",
+    
+    "GovernmentAdvisory":"Këshillëdhënës i Qeverisë",
+    "GAParagraph":"Praktika këshilluese e qeverisë Citizenshipway përqendrohet në krijimin e kushteve të favorshme për investime të huaja direkte përmes hartimit, zbatimit dhe funksionimit të programeve të migracionit të investimeve.",
+    
+    "PracticeGroup":"Grupi i Praktikës",
+    "PGParagraph":"Grupi Ndërkombëtar i Praktikës së Vendbanimit dhe Shtetësisë i Qytetarisë përbëhet nga specialistë të vendosur në zyra të ndryshme, të shpërndarë në të gjithë botën.",
+
+
+
+    "IMCTitle":"Vendet e Migracionit të Investimeve",
+    "IMCParagraphh" : "Blerja e një qëndrimi ose shtetësie alternative është politika më e mirë e mundshme e sigurimit kundër pasigurisë ekonomike dhe politike, përveç mundësimit të lëvizjes globale. Nuk ka hierarki midis programeve të qëndrimit dhe shtetësisë nga investimet.",
+    "IMCButton" : "Kërkimi i Klientit Privat",
+
+
+
+    "CCountries":"VENDET",
+    "CountriesCitizenship":"Shtetësia",
+    "CountriesResidence":"Vendbanimi",
+
+    "EuropeanCitizenship":"Programet Evropiane të Qytetarisë nga Investime",
+    "EuropenAustriaParagraph":"Nga 3 milion EUR Koha e përpunimit: 24–38 muaj Mundësia për t'u bërë një qytetar i BE",
+    "EuropeanMoreInfo":"Me shume informacion",
+    "MontenegroCity":"MALI I ZI",
+    "TurkeyCity":"TURQIA",
+
+    "CaribbeanCitizenship":"Programet e Qytetarisë Karaibe sipas Investimeve",
+
+    "CountriesLearnMore":"Mëso më shumë",
+
+    "CountriesContactUs":"Na kontaktoni",
+    "CCUParagraph":"Citizenshipway ndihmon klientët ndërkombëtarë në marrjen e qëndrimit dhe shtetësisë sipas programeve përkatëse. Na kontaktoni për të rregulluar një konsultë fillestare private.",
+    "CountriesButton":"Hetim",
+
+    "CountriesRightText":"Jeta jetën që meriton!",
+
+
+
+    "ContactTitle":"Kontakti",
+
+
+
+    "GeneralEnquiryForm" : "Formulari i Kërkimit të Përgjithshëm",
+    "GEFParagraph" : "Ju lutemi shënoni kutitë e duhura dhe jepni detajet tuaja themelore të kontaktit. Një nga këshilltarët tanë do t'ju kontaktojë së shpejti përmes postës elektronike ose telefonit.",
+    
+    
+    
+    "FormTitle":"Ju lutemi shënoni kutinë që përshkruan më mirë kërkesën tuaj",
+    "RadioOne":"Jam i interesuar të marr një leje qëndrimi",
+    "RadioTwo":"Jam i interesuar të marr një shtetësi alternative",
+    "RadioThree":"Unë jam i interesuar në blerjen e pasurive të patundshme",
+    "ContactInformation":"Informacioni i kontaktit",
+    "Salutation":"Selam",
+    "HowDidYouHearAboutUs":"Si keni dëgjuar për ne?",
+    "Select":"Zgjidhni",
+    "FirstName ":"Emri",
+    "EnterFirstName ":"Vendos emrin e parë",
+    "LastName":"Mbiemri",
+    "EnterLastName":"Vendosni mbiemrin",
+    "Nationality ":"Kombësia ",
+    "CountryOfResidence":"Vendi i banimit",
+    "PrimaryEmail":"E-maili kryesor",
+    "EnterEmail":"Fut email-in kryesor",
+    "AlternativeEmail":"Email alternativ",
+    "EnterAlternativeEmail":"Vendosni një email alternativ",
+    "PhoneNumber":"Numri i telefonit",
+    "EnterPhoneNumber":"Vendosni numrin e telefonit",
+    "Message":"Mesazh",
+    "MessageQuestion":"Unë kam një pyetje specifike ...",
+    "TextLimit":"Kufiri i tekstit 5000 karaktere",
+
+    "FormButton":"Paraqit",
+
+
+
+    "InfoLeft":"Klient privat",
+    "ILParagraph" : "Nëse jeni një individ privat ose përfaqësoni një klient privat dhe dëshironi të pyesni për shërbimet që ne ofrojmë, ju lutemi plotësoni kërkesën e klientit privat.",
+    "ILLink" : "Kërkimi i klientit privat",
+
+    "InfoCenter":"Qeveria",
+    "ICParagraph":"Nëse jeni një përfaqësues i qeverisë dhe dëshironi të diskutoni për një angazhim të mundshëm me firmën tonë, ju lutemi plotësoni hetimin e qeverisë.",
+    "ICLink":"Hetimi i qeverisë",
+
+    "InfoRight":"Po kërkoni të filloni karrierën tuaj",
+    "IRParagraph":"Nëse jeni duke kërkuar për një mundësi karriere në Citizenshipwway, ju lutemi vizitoni faqen e vendeve të punës dhe karrierës.",
+    "IRLink":"Faqja e Karrierës",
+
+
+
+    "OfficeLocation":"31 Gambles Estate, St. John’s, Antigua",
+    "OfficePhone":"+1 514 288 1997",
+    "OfficeEmail":"Dërgoni kërkesë"
+
+}

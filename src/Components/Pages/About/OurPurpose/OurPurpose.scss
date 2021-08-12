@@ -1,0 +1,138 @@
+.our-purpose {
+    margin-top: 100px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 50px;
+    align-items: center;
+}
+
+.op-left {
+    // border: 1px solid red;
+    position: relative;
+
+    img {
+        width: 90%;
+        filter: brightness(75%);
+    }
+}
+
+.op-left-text {
+    position: absolute;
+    top: -160px;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    background-color: #C8A375;
+    max-width: 350px;
+    height: fit-content;
+    text-align: left;
+
+    h1 {
+        font-size: 16px;
+        margin: 20px 30px;
+        color: white;
+        font-weight: 400;
+    }
+}
+
+.op-right {
+    text-align: left;
+    margin: 10px 100px;
+
+    h1 {
+        font-weight: 600;
+    }
+
+    p {
+        opacity: .6;
+        line-height: 1.6;
+    }
+}
+
+
+
+// Responsive
+@media screen and (max-width: 1200px) {
+    .op-left-text {
+        top: -130px;
+    }
+}
+
+@media screen and (max-width: 1080px) {
+    .op-right {
+        margin: 10px 80px;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .our-purpose {
+        padding: 20px;
+    }
+    .op-left-text {
+        top: -100px;
+        max-width: 300px;
+        height: fit-content;
+        text-align: left;
+    
+        h1 {
+            font-size: 14px;
+            margin: 15px 20px;
+        }
+    }
+    .op-right {
+        margin: 10px 60px;
+
+        p {
+            font-size: 14px;
+        }
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .our-purpose {
+        padding: 0;
+    }
+    .op-left-text {
+        top: -60px;
+        max-width: 250px;
+    
+        h1 {
+            font-size: 14px;
+            margin: 10px 15px;
+        }
+    }
+    .op-right {
+        margin: 10px 40px;
+
+        h1 {
+            font-size: 28px;
+        }
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .our-purpose {
+        grid-template-columns: 1fr;
+        padding: 20px;
+    }
+    .op-right {
+        margin: 10px;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    .our-purpose {
+        padding: 10px;
+    }
+    .op-left-text {
+        position: absolute;
+        top: -30px;
+        max-width: 200px;
+    
+        h1 {
+            font-size: 12px;
+            margin: 10px 15px;
+        }
+    }
+}
+

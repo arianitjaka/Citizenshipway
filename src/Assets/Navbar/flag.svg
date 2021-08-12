@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92.615" height="19.394" viewBox="0 0 92.615 19.394">
+  <g id="Group_180" data-name="Group 180" transform="translate(-1258.844 -9353)">
+    <g id="Group_185" data-name="Group 185">
+      <text id="_1-877-944-3822" data-name="1-877-944-3822" transform="translate(1295 9368)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">English</tspan></text>
+      <g id="flag_3_" data-name="flag (3)" transform="translate(1258.844 9269.669)">
+        <rect id="Rectangle_68" data-name="Rectangle 68" width="26.09" height="17.393" transform="translate(0 85.331)" fill="#f0f0f0"/>
+        <g id="Group_183" data-name="Group 183" transform="translate(0 87.505)">
+          <rect id="Rectangle_69" data-name="Rectangle 69" width="26.09" height="2.174" transform="translate(0 0)" fill="#d80027"/>
+          <rect id="Rectangle_70" data-name="Rectangle 70" width="26.09" height="2.174" transform="translate(0 4.349)" fill="#d80027"/>
+          <rect id="Rectangle_71" data-name="Rectangle 71" width="26.09" height="2.174" transform="translate(0 8.696)" fill="#d80027"/>
+          <rect id="Rectangle_72" data-name="Rectangle 72" width="26.09" height="2.174" transform="translate(0 13.045)" fill="#d80027"/>
+        </g>
+        <rect id="Rectangle_73" data-name="Rectangle 73" width="13.045" height="9.366" transform="translate(0 85.331)" fill="#2e52b2"/>
+        <g id="Group_184" data-name="Group 184" transform="translate(1.325 86.835)">
+          <path id="Path_288" data-name="Path 288" d="M83.253,160.624l-.21.646h-.68l.55.4-.21.646.55-.4.55.4-.21-.646.55-.4h-.68Z" transform="translate(-79.491 -158.291)" fill="#f0f0f0"/>
+          <path id="Path_289" data-name="Path 289" d="M83.462,207.043l-.21-.646-.21.646h-.68l.55.4-.21.646.55-.4.55.4-.21-.646.55-.4Z" transform="translate(-79.491 -201.732)" fill="#f0f0f0"/>
+          <path id="Path_290" data-name="Path 290" d="M27.1,207.043l-.21-.646-.21.646H26l.55.4-.21.646.55-.4.55.4-.21-.646.55-.4Z" transform="translate(-26.001 -201.732)" fill="#f0f0f0"/>
+          <path id="Path_291" data-name="Path 291" d="M26.891,160.624l-.21.646H26l.55.4-.21.646.55-.4.55.4-.21-.646.55-.4H27.1Z" transform="translate(-26.001 -158.291)" fill="#f0f0f0"/>
+          <path id="Path_292" data-name="Path 292" d="M83.253,114.85l-.21.646h-.68l.55.4-.21.646.55-.4.55.4-.21-.646.55-.4h-.68Z" transform="translate(-79.491 -114.85)" fill="#f0f0f0"/>
+          <path id="Path_293" data-name="Path 293" d="M26.891,114.85l-.21.646H26l.55.4-.21.646.55-.4.55.4-.21-.646.55-.4H27.1Z" transform="translate(-26.001 -114.85)" fill="#f0f0f0"/>
+          <path id="Path_294" data-name="Path 294" d="M139.615,160.624l-.21.646h-.68l.55.4-.21.646.55-.4.55.4-.21-.646.55-.4h-.68Z" transform="translate(-132.981 -158.291)" fill="#f0f0f0"/>
+          <path id="Path_295" data-name="Path 295" d="M139.824,207.043l-.21-.646-.21.646h-.68l.55.4-.21.646.55-.4.55.4-.21-.646.55-.4Z" transform="translate(-132.981 -201.732)" fill="#f0f0f0"/>
+          <path id="Path_296" data-name="Path 296" d="M196.187,207.043l-.21-.646-.21.646h-.68l.55.4-.21.646.55-.4.55.4-.21-.646.55-.4Z" transform="translate(-186.472 -201.732)" fill="#f0f0f0"/>
+          <path id="Path_297" data-name="Path 297" d="M195.978,160.624l-.21.646h-.68l.55.4-.21.646.55-.4.55.4-.21-.646.55-.4h-.68Z" transform="translate(-186.472 -158.291)" fill="#f0f0f0"/>
+          <path id="Path_298" data-name="Path 298" d="M139.615,114.85l-.21.646h-.68l.55.4-.21.646.55-.4.55.4-.21-.646.55-.4h-.68Z" transform="translate(-132.981 -114.85)" fill="#f0f0f0"/>
+          <path id="Path_299" data-name="Path 299" d="M195.978,114.85l-.21.646h-.68l.55.4-.21.646.55-.4.55.4-.21-.646.55-.4h-.68Z" transform="translate(-186.472 -114.85)" fill="#f0f0f0"/>
+        </g>
+      </g>
+    </g>
+    <path id="Icon_awesome-angle-down" data-name="Icon awesome-angle-down" d="M2.885,14.769.139,12.023a.483.483,0,0,1,0-.684L.6,10.883a.483.483,0,0,1,.684,0l1.946,1.946,1.946-1.946a.483.483,0,0,1,.684,0l.456.456a.483.483,0,0,1,0,.684L3.567,14.769A.48.48,0,0,1,2.885,14.769Z" transform="translate(1345.004 9351.26)" fill="#fff"/>
+  </g>
+</svg>

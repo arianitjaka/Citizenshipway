@@ -1,0 +1,260 @@
+.general-enquiry-form {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 50px;
+}
+
+// Left
+.gef-left {
+
+    .left-content {
+        padding: 120px 70px 50px 70px;
+        max-width: 400px;
+        margin: auto;
+        text-align: left;
+
+        h1 {
+            font-weight: 600;
+        }
+
+        p {
+            opacity: .5;
+            line-height: 1.6;
+        }
+    }
+
+    .left-img img {
+        width: 100%;
+        
+    }
+}
+
+
+// Right
+.gef-right {
+    border-radius: 25px;
+    margin-right: 120px;
+    margin-left: -50px;
+    padding: 30px 50px;
+    background-color: white;
+    box-shadow: 2px 14px 23px 1px rgba(0,0,0,0.14);
+    -webkit-box-shadow: 2px 14px 23px 1px rgba(0,0,0,0.14);
+    -moz-box-shadow: 2px 14px 23px 1px rgba(0,0,0,0.14);
+
+    .form-title h1 {
+        font-size: 18px;
+        font-weight: 600;
+        text-align: left;
+        margin-left: 20px;
+    }
+
+    .form-radio {
+        display: flex;
+        align-items: center;
+        margin-left: 20px;
+
+        h3 {
+            font-size: 14px;
+            font-weight: 400;
+        }
+    }
+}
+
+.contact-title h1 {
+    font-size: 18px;
+    font-weight: 600;
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+// FORM
+.form-inputs {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 100%;
+}
+
+.form-content {
+
+    h6 {
+        text-align: left;
+        margin-left: 20px;
+        margin-bottom: 10px;
+        color: #222530;
+        font-weight: 600;
+    }
+
+    .form-select {
+        border: 1px solid #707070;
+        padding: 15px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin: 5px 20px;
+        border-radius: 3px;
+    
+        h6 {
+            color: #222530;
+            opacity: .5;
+            margin: 0;
+        }
+
+        .nationality-form {
+            display: flex;
+            align-items: center;
+
+            img {
+                margin-right: 10px;
+            }
+
+            span {
+                margin-right: 10px;
+            }
+        }
+    }
+
+    .form-text {
+        border: 1px solid #707070;
+        padding: 12px;
+        display: flex;
+        align-items: center;
+        margin: 5px 20px;
+        border-radius: 3px;
+
+
+        img {
+            margin-right: 10px;
+        }
+
+        span {
+            margin-right: 10px;
+            color: #707070;
+        }
+    
+        h6 {
+            color: #222530;
+            opacity: .5;
+            margin: 0;
+        } 
+
+        .form-input-field {
+            width: 100%;
+            border: 0;
+            outline: none;
+        }
+    }
+}
+
+.message-form {
+    border: 1px solid #707070;
+        padding: 15px;
+        display: flex;
+        align-items: center;
+        margin: 5px 20px;
+        border-radius: 3px;
+
+
+        img {
+            margin-right: 10px;
+        }
+
+        span {
+            margin-right: 10px;
+            color: #707070;
+        }
+    
+        h6 {
+            color: #222530;
+            opacity: .5;
+            margin: 0;
+            margin-bottom: 60px;
+        } 
+}
+
+.text-limit {
+    margin-top: 10px;
+}
+
+.form-button {
+    width: fit-content;
+    background-color: #C8A375;
+    float: right;
+    margin: 5px 20px;
+    border-radius: 3px;
+
+    .form-btn-content {
+
+        h4 {
+            margin: 15px 40px;
+            color: white;
+            font-weight: 600;
+        }
+    }
+}
+
+
+
+// Responsive 
+@media screen and (max-width: 1200px) {
+    .gef-right {
+        margin-right: 50px;
+        padding: 30px;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .general-enquiry-form {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    .gef-left {
+        margin: 20px;
+
+        .left-content {
+            padding: 0;
+            margin: 40px 0;
+            max-width: 100%;
+        }
+    }
+    .gef-right {
+        margin: 40px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .form-inputs {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .gef-left {
+        margin: 15px;
+    }
+    .gef-right {
+        margin: 20px;
+        padding: 30px 15px;
+
+        .form-title h1 {
+            margin-left: 0;
+        }
+
+        .form-radio {
+            margin-left: 0;
+
+            h3 {
+                font-size: 12px;
+            }
+        }
+
+        .contact-title h1 {
+            margin-left: 0;
+        }
+    }
+}
+
+
+  
+

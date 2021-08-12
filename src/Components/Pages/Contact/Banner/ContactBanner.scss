@@ -1,0 +1,58 @@
+.contact-banner {
+    max-width: 700px;
+    margin: auto;
+    padding: 30px;
+    color: white;
+  
+    .contact-banner-text {
+      font-size: 2.8em;
+      font-weight: 500;
+      margin-top: 100px;
+      margin-bottom: 60px;
+    }
+}
+  
+  
+  
+  // Responsive 
+  @media screen and (max-width: 630px) {
+    .contact-banner-text {
+      font-size: 2.4em !important;
+    }
+  }
+  
+  @media screen and (max-width: 568px) {
+    .contact-banner-div {
+      padding: 100px 50px !important;
+    
+      .contact-banner-paragraph {
+        font-size: 13px !important;
+      }   
+  }
+  }
+  
+  @media screen and (max-width: 468px) {
+    .contact-banner-text {
+      font-size: 2em !important;
+    }
+    .contact-banner {
+      padding: 95px 50px !important;
+    }
+  }
+  
+  @media screen and (max-width: 410px) {
+    .contact-banner-text {
+      font-size: 1.8em !important;
+    }
+    .contact-banner {
+      padding: 95px 40px !important;
+    }
+  }
+  
+  @media screen and (max-width: 360px) {
+    .contact-banner {
+      padding: 95px 30px !important;
+    
+    }
+  }
+  

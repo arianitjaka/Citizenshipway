@@ -1,0 +1,374 @@
+{
+    "Home":"Zuhause",
+    "About" : "Über",
+    "Citizenship" : "Staatsbürgerschaft",
+    "Residency":"Wohnsitz",
+    "Countries":"Länder",
+    "Resources":"Ressourcen",
+    "Contact":"Kontakt",
+
+
+
+    "HeaderTitle":"Investieren Sie in Ihre Zukunft",
+    "HeaderParagraph":"Interessiert an einer Staatsbürgerschaft oder einem Wohnsitz in Europa, Nordamerika oder der Karibik? Möchten Sie eine alternative persönliche und finanzielle Basis schaffen? Wir sind hier, um Ihnen dabei zu helfen.",
+    "HeaderButton":"Buchen Sie eine Beratung",
+
+
+
+    "GlobalCitizens":"Weltbürger",
+    "GCParagraph" : "Cintzienshipway ist weltweit führend in der Planung von Wohnsitz und Staatsbürgerschaft. Jedes Jahr verlassen sich Hunderte vermögender Privatpersonen und ihre Berater auf unser Fachwissen und unsere Erfahrung auf diesem Gebiet. Die hochqualifizierten Fachkräfte des Unternehmens arbeiten in über 30 Ländern weltweit als ein Team zusammen.",
+    "GCButton" : "Erfahren Sie mehr",
+    "GCRightText" : "Keine Vermittler. Lizenziertes Expertenteam.",
+
+
+
+    "Services":"Dienstleistungen",
+    "CitizenshipByInvestments":"Staatsbürgerschaft durch Investitionen",
+    "CBIParagraph":"Wir decken alle wichtigen Staatsbürgerschaften durch Investitionsprogramme ab. Möchten Sie einen zweiten Pass? Kontaktieren Sie uns für eine kostenlose Beratung.",
+    "ResidencePermits":"Aufenthaltsgenehmigungen",
+    "RPParagraph":"Wir bieten Dienstleistungen für die Aufenthaltsplanung an und unterstützen unsere Kunden bei der Erlangung einer Aufenthaltserlaubnis an ihrem bevorzugten Standort.",
+    "AdvisoryComplienceServices":"Beratungs- und Compliance-Services",
+    "ACSParagraph":"Wir helfen Ihnen dabei, die Einhaltung lokaler Regeln, Vorschriften und Anforderungen durch Ihr Unternehmen zu maximieren.",
+
+
+
+    "EnhanceYourTravelFreedom":"Erweitern Sie Ihre Reisefreiheit",
+    "EYTFPragraph":"Nur neun Länder bieten Staatsbürgerschaftsprogramme an, die einen direkten Weg zur Staatsbürgerschaft auf der Grundlage von Investitionen und eines gründlichen mehrstufigen Due-Diligence-Prozesses bieten.",
+    "EYTFPButton": "Staatsbürgerschaftsoption",
+    "ExpandYourGlobalFootprint":"Erweitern Sie Ihre globale Präsenz",
+    "EYGFParagraph":"Citizenshipway konzentriert sich auf die attraktivsten Residenzprogramme der Welt unter Berücksichtigung von Lebensqualität, Mobilität, Steuern, Datenschutz und Sicherheit.",
+    "EYGFPButton": "Aufenthaltsoption",
+
+
+
+    "Programs":"PROGRAMME",
+    "CitizenshipOption" : "Staatsbürgerschaft",
+    "ResidenceOption" : "Residenz",
+
+    "VanatuCity":"VANUATU",
+    "VanatuInfo":"Vanuatu Citizenship Immer beliebter bei asiatischen Kunden Durchschnittliche Bearbeitungszeit von 2 Monaten",
+    "VanatuPrice":"Von US$ 150,000",
+
+    "GrenadaCity":"GRENADA",
+    "GrenadaInfo":"Commonwealth-Staatsbürgerschaft Visumfreier Zugang Europa, Russland und China Qualifizieren Sie sich für die Beantragung eines E-2-Visums für die USA",
+    "GreanadaPrice":"Von US$ 250,000",
+
+    "AustriaCity":"AUSTRIA",
+    "AustriaInfo":"Österreichische Staatsbürgerschaft Einer der stärksten Pässe der Welt Durchschnittliche Bearbeitungszeit von 4 Monaten",
+    "AustriaPrice":"Von EUR 3 million",
+
+    "AntiguaBarbudaCity":"ANTIGUA AND BARBUDA",
+    "AntiguaBarbudaInfo":"Commonwealth-Staatsbürgerschaft Bester Wert der karibischen Programme Durchschnittliche Bearbeitungszeit von 4 Monaten",
+    "AntiguaBarbudaPrice":"Von US$ 150,000",
+
+    "DominicaCity":"DOMINICA",
+    "DominicaInfo":"Commonwealth-Staatsbürgerschaft Beliebte Option Durchschnittliche Bearbeitungszeit von 2 Monaten",
+    "DominicaPrice":"Von US$ 135,000",
+
+    "MaltaCity":"MALTA",
+    "MaltaInfo":"Unionsbürgerschaft Beliebtestes europäisches Programm Durchschnittliche Bearbeitungszeit von 12 bis 14 Monaten",
+    "MaltaPrice":"Von EUR 850,000",
+
+    "StLuciaCity":"ST. LUCIA",
+    "StLuciaInfo":"Commonwealth-Staatsbürgerschaft Neuestes Programm der Karibik Durchschnittliche Bearbeitungszeit von 6-8 Monaten",
+    "StLuciaPrice":"Von US$ 100,000",
+
+    "StKittsNevisCity":"ST. KITTS & NEVIS",
+    "StKittsNevisInfo":"Commonwealth-Staatsbürgerschaft Ältestes Programm der Karibik Durchschnittliche Bearbeitungszeit von 4 Monaten",
+    "StKittsNevisPrice":"Von US$ 150,000",
+
+    "ProgramsButton": "Alle ansehen",
+
+
+
+    "WhyCitizenshipway":"Warum Citizenshipway",
+    "WhyCitizenshipwayParagraph" : "Täglich verlassen sich einzelne Kunden sowie andere Vermögensberater weltweit auf unsere Beratung in Fragen des internationalen Wohnsitzes und der Staatsbürgerschaft.",
+    
+    "LicencedAgents" : "Lizenzierte Agenten",
+    "LicencedAgentsParagraph":"Wir arbeiten direkt mit der Regierung und den Partnern vor Ort in der Gerichtsbarkeit zusammen.",
+
+    "TailoredSolutions":"Maßgeschneiderte Lösungen",
+    "TailoredSolutionsParagraph":"Jeder unserer Kunden ist einzigartig und wir passen unsere Lösungen an Ihre Anforderungen an.",
+
+    "ApplyInConfidence":"Bewerben Sie sich im Vertrauen",
+    "ApplyInConfidenceParagraph":"Wir werden nur Bewerbungen vertreten, von denen wir überzeugt sind, dass sie erfolgreich sind und streng eingehalten werden.",
+    
+
+
+    "LatestNews":"NEUESTEN NACHRICHTEN",
+
+    "LNLeftDate" : "Jan 8, 2021",
+    "LNLeftTitle" : "Wie fange ich mit zweiten Pässen für meine Familie an und welcher ist der beste?",
+    "LNLeftParagraph":"KAL KENNARD, PARTNER Nachdem ich viele der karibischen Inseln besucht habe ...",
+
+    "LNCenterDate":"Jan 7, 2021",
+    "LNCenterTitle":"Der Niedergang der Freiheit",
+    "LNCenterParagraph":"Zypern Behörden haben in dem Versuch, die Wettbewerbsfähigkeit zu erhalten, die Zypern ...",
+
+    "LNRightDate":"Jan 8, 2021",
+    "LNRightTitle":"Drei Innovationen in der karibischen Investitionsmigration",
+    "LNRightParagraph":"Die karibischen Inselstaaten waren als Reaktion auf die globale Pandemie besonders innovativ ...",
+
+
+    "LNLink":"Weiterlesen",
+
+
+
+    "Testimonials":"REFERENZEN",
+    "TestimonialsInfo" : "Der Papierkram verlief reibungslos, was meine größte Sorge war. Sie haben alles getan, um unsere Bewerbung auf Kurs zu halten. Vielen Dank dafür. Wir freuen uns sehr auf unseren Besuch im Dezember.",
+    "TestimonialsDate" : "USA, Oktober 2020",
+
+
+
+    "AboutTitle":"Über Uns",
+    "AboutParagraph" : "Citizenshipway ist ein angesehener Anbieter von Treuhand- und Unternehmensdienstleistungen, der sich auf Steuerplanung, Vermögensschutz und steuereffiziente Strukturen mit mehreren Gerichtsbarkeiten spezialisiert hat.",
+
+    
+
+    "ValuesTitle" : "WERTE",
+    "ValueLeftTitle" : "Vertrauen",
+    "ValueLeftParagraph":"Wir legen einen Jahresabschluss vor und sind transparent in Bezug auf unsere finanziellen Angelegenheiten, wie dies im Companies Act vorgeschrieben ist.",
+    "ValueCenterTitle":"Verbindung",
+    "ValueCenterParagraph":"Wir haben über 15 Jahre Erfahrung hier an verschiedenen Orten mit attraktiven Aufenthalts- und Staatsbürgerschaftsprogrammen.",
+    "ValueRightTitle":"Vertraulichkeit",
+    "ValueRightParagraph":"Wir verstehen Ihre Bedürfnisse und wir verstehen die Art und Vertraulichkeit aller Informationen, an denen wir beteiligt sind.",
+
+
+
+    "Story":"GESCHICHTE",
+    "StoryTitle" : "Unsere Geschichte",
+    "StoryParagraph" : "Mit der zunehmenden Globalisierung sind Wohnsitz und Staatsbürgerschaft zu Themen von großem Interesse für die zunehmende Anzahl international mobiler Unternehmer und Investoren geworden, denen wir jeden Tag mit Stolz dienen. Wir waren an der strategischen Beratung sowie an der Konzeption, Einrichtung und Durchführung der weltweit erfolgreichsten Aufenthalts- und Staatsbürgerschaftsprogramme beteiligt.",
+    "StoryButton":"Lesen Sie die ganze Geschichte",
+    
+
+
+    "CCLeftTitle":"WIR kENNEN DAS LEBEN EINES INTERNNATIONALEN BüRGERS ZWISCHEN LäNDERN UND KULTUREN.",
+    "CCRightTitle" : "Wir möchten jedem Kunden innovative Lösungen für Probleme und frische Ideen bieten, von denen der wahre Erfolg abhängt. Dies bedeutet lange und harte Arbeit, Liebe zum Detail und schnelle Reaktion auf Probleme.",
+    "CCLeftColumn" : "Der Gründer und Unternehmer von Citizenshipway erstellt das Programm zur Erhöhung der Investitionen in die Staatsbürgerschaft für verschiedene Branchen, nämlich Aquakultur und Tourismusentwicklung.",
+    "CCCenterColumn":"Mit wichtigen Partnern und Investitionen in verschiedenen Ländern arbeiten wir mit den Regierungen zusammen, um die Parlamentarier und das Land über das potenzielle Programm zu informieren.",
+    "CCRightColumn":"Wir bieten eine Reihe von Dienstleistungen an, die für den Schutz und das Wachstum Ihres Vermögens unerlässlich sind. Wir vertreten jetzt Residency-Programme in 30 verschiedenen Ländern weltweit mit dem Citizenship by Investment-Programm.",
+    
+
+
+    "OurPurpose":"Unser Zweck",
+    "OurPurposeParagraph" : "Wir arbeiten auf eine Welt hin, in der ein vernünftiger Fluss von Menschen und Kapital zwischen Ländern - für Handel, Tourismus, Arbeit und Investitionen - zum globalen Frieden und Wohlstand beiträgt und in der die Menschen in ihren Geburtsländern oder Ländern ihrer Wahl in Würde und Sicherheit leben.",
+    "OurPurposeLeft" : "Verbesserung des menschlichen Potenzials durch globale Bürgerschaft",
+
+
+
+    "KeyPeople":"SCHLÜSSELPERSONEN",
+    "MeetTheTeam" : "Triff das Team",
+    "KPLeft" : "UNSERE MENSCHEN SIND HOCHPROFIS, SORGFÄLTIG ANGEZEIGT UND GEEIGNET.",
+    "KPRight":"Durch die Zusammenstellung eines Teams internationaler Fachleute bieten wir eine Brücke internationaler Kompetenz für Kunden, die die Staatsbürgerschaft oder den Wohnsitz beantragen oder in der Karibik, auf Zypern, auf Malta und in vielen anderen Ländern Fuß fassen möchten. Unser Team besteht aus internationalen Bürgern mit mehreren Staatsbürgerschaften.",
+    
+    "KPSpecialTitle":"GRÜNDERIN",
+    "KPSpecialName":"LAURA ALAN",
+    "KPSpecialInfo":"Laura Alan ist die Gründerin von Citizenshipway und wurde in Irland geboren und ist in Kanada aufgewachsen. Brian stammt aus einer Unternehmerfamilie und hat vor 20 Jahren sein eigenes Unternehmen gegründet. Er hat international bedeutende Erfolge bei der Entwicklung und dem Verkauf von Immobilien erzielt.",
+    "KPSpecialButton":"Lesen Sie Bio",
+
+    "KPName1":"IVOR BROWN",
+    "KPJob1":"GESCHÄFTSFÜHRENDER GESELLSCHAFTER",
+    "KPName2":"OLIVIA WALKER",
+    "KPJob2":"PARTNER",
+    "KPName3":"HARRY GRAHAM",
+    "KPJob3":"DIREKTOR (ANTIGUA)",
+    "KPName4":"KEVIN RUTHERGORD",
+    "KPJob4":"SENIOR CITIZENSHIP CONSULTANT",
+    "KPName5":"FIONA MITCHELL",
+    "KPJob5":"DIREKTOR (CAYMAN ISLANDS)",
+    "KPName6":"PETER DAVIES",
+    "KPJob6":"DIREKTOR (DUBAI)",
+    "KPName7":"HANNAH GIBSON",
+    "KPJob7":"DIREKTOR (EUROPE)",
+
+    "KPButton":"Alle ansehen",
+
+
+
+    "Offices":"BÜROS",
+    "WorldwideOffices" : "Weltweite Büros",
+    "AntiguaAndBarbuda" : "Antigua und Barbuda",
+    "Grenada":"Grenada",
+    "Malta":"Malta",
+    "Cyprus":"Zypern",
+    "DubaiUAE":"Dubai (UAE)",
+    "StKittsNevis":"St. Kitts and Nevis",
+    "StLucia":"St. Lucia",
+
+    "OfficesButton":"Alle ansehen",
+
+
+
+    "CitizenshipTitle":"Staatsbürgerschaft durch Investition",
+    "CitizenshipParagraph" : "Die Staatsbürgerschaft durch Investitionsprogramme gewährt Antragstellern und ihren Familien die sofortige Staatsbürgerschaft. Das bedeutet die Qualifikation für einen zweiten Pass und damit ihre unglaubliche Beliebtheit bei unseren Kunden für die internationalen Reisemöglichkeiten, die sie bieten.",
+    
+    
+    
+    "CitizenshipByInvestment" : "Staatsbürgerschaft durch Investition",
+    "CBIParagraphh":"Eine wachsende Zahl von Ländern bietet inzwischen Programme für Investoren mit Migrationshintergrund an, bei denen Aufenthaltsrechte oder Staatsbürgerschaft gegen eine beträchtliche Investition in ihre Volkswirtschaften ausgetauscht werden. Von „Cash-for-Citizenship“ bis hin zu Anreizen für Investitionen in Unternehmen oder Immobilien des Privatsektors ist der Markt für die Einwanderung von Investoren immer vielfältiger geworden.",
+    "CBIButton":"Privatkundenanfrage",
+
+
+
+    "CitizenshipPlanning":"Staatsbürgerschaftsplanung",
+
+    "CitizenshipByInvestmentOverview":"Überblick über die Staatsbürgerschaft nach Investitionen",
+    "CBIOParagraph":"Citizenship-by-Investment-Programme bieten Ihnen die Möglichkeit, schnell und einfach ohne lästige, typische Visa- und Passantragsverfahren legal eine neue Staatsbürgerschaft zu erwerben.",
+    
+    "WhyCitizenshipByInvestment":"Warum Staatsbürgerschaft durch Investition?",
+    "WhyCBIParagraph":"In einer unruhigen, sich ständig verändernden Welt ist der Erwerb einer alternativen Staatsbürgerschaft eine kluge Entscheidung und eine Investition in die Zukunft.",
+    
+    "ImportantPoints":"Wichtige Punkte",
+    "IPParagraph":"Die Staatsbürgerschaft ist die privilegierteste Form der Staatsangehörigkeit, ein weiter gefasster Begriff, der im Völkerrecht verwendet wird, um alle Personen zu bezeichnen, zu deren Schutz ein Staat berechtigt ist.",
+
+    "CPButton":"Weiterlesen",
+
+
+
+    "PermanentResidencePermit":"Unbeschränkte Aufenthaltserlaubnis",
+    "PRPParagraph" : "Eine attraktive Alternative zum Erwerb einer zweiten Staatsbürgerschaft durch Investition besteht darin, eine dauerhafte Aufenthaltserlaubnis oder ein langfristiges Visum zu erhalten. Hier können Sie und Ihre Familie einen dauerhaften Wohnsitz in einem Land beantragen, indem Sie eine Investition tätigen oder eine Immobilie kaufen.",
+    
+    
+    
+    "ResidenceByInvestment" : "Wohnsitz nach Investition",
+    "RBIParagraph":"Residence-by-Investment-Programme bieten vermögenden Privatpersonen (HNWIs) die Möglichkeit, in ihrem neuen Wohnsitzland umzuziehen und das Recht zu haben, dort zu leben, zu arbeiten, zu studieren und medizinische Versorgung zu erhalten. Citizenshipway bietet Residence-by-Investment-Programme an einigen der weltweit führenden Orte in Bezug auf das Geschäftsumfeld, die Lebensqualität und die Möglichkeit, die Staatsbürgerschaft zu erwerben.",
+    "RBIButton":"Privatkundenanfrage",
+    
+    
+    
+    "AustriaParagraph":"Erfahren Sie, wie Sie einen ständigen Wohnsitz in Österreich erhalten und eine dauerhafte Aufenthaltserlaubnis erhalten.",
+
+    "CyprusCity":"ZYPERN",
+    "CyprusParagraph":"Erhalten Sie in nur zwei Monaten einen ständigen Wohnsitz in Zypern!",
+
+    "GreeceCity":"GRIECHENLAND",
+    "GreeceParagraph":"Erfahren Sie mehr darüber, wie Sie eine Aufenthaltserlaubnis in Griechenland erhalten können.",
+
+    "MaltaParagraph":"Erhalten Sie über das Aufenthalts- und Visa-Programm einen ständigen Wohnsitz in Malta.",
+
+    "PortugalCity":"PORTUGAL",
+    "PortugalParagraph":"Das Programm ist ein Weg zum visumfreien Reisen im europäischen Schengen-Raum und bietet das Recht, in Portugal zu leben, zu arbeiten und zu studieren.",
+    
+    "UAECity":"VAE",
+    "UAEParagraph":"(VAE) hat sich zunehmend zu einer der weltweit beliebtesten Gerichtsbarkeiten für Wohnsitze entwickelt.",
+
+    "AustraliaCity":"AUSTRALIEN",
+    "AustraliaParagraph":"Australien ist ein führendes Ziel für globale Geschäftsinnovatoren, die eine hohe Lebensqualität suchen.",
+
+    "NewZealandCity":"NEUSEELAND",
+    "NewZealandParagraph":"Neuseeland verspricht einen hohen Lebensstandard sowie wirtschaftliche, politische und soziale Stabilität.",
+
+    "ProgramsButton2":"Erfahren Sie mehr",
+
+
+
+    "ResidencePlanning":"Wohnortplanung",
+    "RPTitle" : "Wohnortplanung",
+    "RPParagraphh" : "Täglich verlassen sich einzelne Privatkunden und Familien zusammen mit ihren vertrauenswürdigen Beratern weltweit auf uns, um unser Fachwissen in Bezug auf internationale Wohnheimlösungen zu erhalten.",
+    "IPTitle":"Wichtige Punkte",
+    "IPParagraphh":"Ein Wohnsitzwechsel in ein geeignetes Land wird für Privatkunden zu einem immer wichtigeren Aspekt der internationalen Planung.",
+    "REOTitle":"Immobilienübersicht",
+    "REOParagraph":"Der Erwerb von Immobilien im Ausland ist ein wichtiger Bestandteil der Aufenthalts- und Staatsbürgerschaftsplanung. Es erfordert jedoch sorgfältige und professionelle Aufmerksamkeit.",
+
+
+
+    "InvestmentMigrationCountries":"Investitionsmigrationsländer",
+    "IMCParagraph" : "Unsere Kunden und ihre Berater erkennen den Wert eines alternativen Wohnsitzes und / oder einer alternativen Staatsbürgerschaft als wichtige Säule für das Wohlergehen und die Zukunft ihrer Familien an.",
+    
+    
+    
+    "PrivateClients" : "Privatkunden",
+    "PCParagraph":"Zu den Kunden von Citizenshipway zählen vermögende und sehr vermögende Privatpersonen und Familien, Unternehmer und Investoren sowie hochrangige Manager, Künstler und Prominente aus den Bereichen Mode, Unterhaltung und Sport.",
+    
+    "GovernmentAdvisory":"Regierungsberatung",
+    "GAParagraph":"Die Regierungsberatungspraxis von Citizenshipway konzentriert sich auf die Schaffung günstiger Bedingungen für ausländische Direktinvestitionen durch die Konzeption, Durchführung und Durchführung von Investitionsmigrationsprogrammen.",
+    
+    "PracticeGroup":"Übungsgruppe",
+    "PGParagraph":"Die internationale Residency and Citizenship Practice Group von Citizenshipway besteht aus Spezialisten in verschiedenen Büros auf der ganzen Welt.",
+
+
+
+    "IMCTitle":"Investitionsmigrationsländer",
+    "IMCParagraphh" : "Der Erwerb eines alternativen Wohnsitzes oder einer alternativen Staatsbürgerschaft ist neben der Ermöglichung der globalen Mobilität die bestmögliche Versicherungspolice gegen wirtschaftliche und politische Unsicherheiten. Es gibt keine Hierarchie zwischen Wohnsitz- und Staatsbürgerschaftsprogrammen.",
+    "IMCButton" : "Privatkundenanfrage",
+
+
+
+    "CCountries":"LÄNDER",
+    "CountriesCitizenship":"Staatsbürgerschaft",
+    "CountriesResidence":"Residenz",
+
+    "EuropeanCitizenship":"Programme für die Unionsbürgerschaft durch Investitionen",
+    "EuropenAustriaParagraph":"Ab 3 Mio. EUR Bearbeitungszeit: 24–38 Monate Möglichkeit, EU-Bürger zu werden",
+    "EuropeanMoreInfo":"Mehr Info",
+    "MontenegroCity":"MONTENEGRO",
+    "TurkeyCity":"TRUTHAHN",
+
+    "CaribbeanCitizenship":"Programme für die Staatsbürgerschaft der Karibik nach Investitionen",
+
+    "CountriesLearnMore":"Erfahren Sie mehr",
+
+    "CountriesContactUs":"Kontaktiere uns",
+    "CCUParagraph":"Citizenshipway unterstützt internationale Kunden bei der Erlangung des Wohnsitzes und der Staatsbürgerschaft im Rahmen der jeweiligen Programme. Kontaktieren Sie uns, um eine erste private Beratung zu vereinbaren.",
+    "CountriesButton":"Anfrage",
+
+    "CountriesRightText":"Leben Sie das Leben, das Sie verdienen!",
+
+
+
+    "ContactTitle":"Kontakt",
+
+
+
+    "GeneralEnquiryForm" : "Allgemeines Anfrageformular",
+    "GEFParagraph" : "Bitte kreuzen Sie die entsprechenden Kästchen an und geben Sie Ihre grundlegenden Kontaktdaten an. Einer unserer Berater wird Sie in Kürze per E-Mail oder Telefon kontaktieren.",
+    
+    
+    
+    "FormTitle":"Bitte kreuzen Sie das Kästchen an, das Ihre Anfrage am besten beschreibt",
+    "RadioOne":"Ich bin daran interessiert, eine Aufenthaltserlaubnis zu erhalten",
+    "RadioTwo":"Ich bin daran interessiert, eine alternative Staatsbürgerschaft zu erhalten",
+    "RadioThree":"Ich interessiere mich für den Erwerb von Immobilien",
+    "ContactInformation":"Kontaktinformation",
+    "Salutation":"Anrede",
+    "HowDidYouHearAboutUs":"Woher haben Sie von uns gehört?",
+    "Select":"Wählen",
+    "FirstName ":"Vorname",
+    "EnterFirstName ":"Bitte Vornamen eingeben",
+    "LastName":"Nachname",
+    "EnterLastName":"Nachnamen eingeben",
+    "Nationality ":"Staatsangehörigkeit",
+    "CountryOfResidence":"Land des Wohnsitzes",
+    "PrimaryEmail":"Erste Email",
+    "EnterEmail":"Geben Sie die primäre E-Mail-Adresse ein",
+    "AlternativeEmail":"Alternative E-Mail",
+    "EnterAlternativeEmail":"Geben Sie eine alternative E-Mail-Adresse ein",
+    "PhoneNumber":"Telefonnummer",
+    "EnterPhoneNumber":"Telefonnummer eingeben",
+    "Message":"Message",
+    "MessageQuestion":"Ich habe eine spezielle Frage ...",
+    "TextLimit":"Textlimit 5.000 Zeichen",
+
+    "FormButton":"einreichen",
+
+
+
+    "InfoLeft":"Privatkunde",
+    "ILParagraph" : "Wenn Sie eine Privatperson sind oder einen Privatkunden vertreten und sich nach den von uns angebotenen Dienstleistungen erkundigen möchten, füllen Sie bitte die Privatkundenanfrage aus.",
+    "ILLink" : "Privatkundenanfrage",
+
+    "InfoCenter":"Regierung",
+    "ICParagraph":"Wenn Sie ein Regierungsvertreter sind und ein mögliches Engagement mit unserer Firma besprechen möchten, füllen Sie bitte die Regierungsanfrage aus.",
+    "ICLink":"Regierungsuntersuchung",
+
+    "InfoRight":"Sie möchten Ihre Karriere beginnen",
+    "IRParagraph":"Wenn Sie nach einer Karrieremöglichkeit bei Citizenshipway suchen, besuchen Sie bitte die Seite Jobs und Karrieren.",
+    "IRLink":"Karriereseite",
+
+
+
+    "OfficeLocation":"31 Gambles Estate, St. John’s, Antigua",
+    "OfficePhone":"+1 514 288 1997",
+    "OfficeEmail":"Anfrage absenden"
+ 
+}

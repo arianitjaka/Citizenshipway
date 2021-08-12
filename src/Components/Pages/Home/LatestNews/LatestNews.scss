@@ -1,0 +1,115 @@
+.latest-news {
+    margin-top: 100px;
+    // border: 1px solid red;
+}
+
+.latest-news-title h1 {
+    width: max-content;
+    margin: auto;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+.latest-news-content {
+    margin: 75px 60px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+    .latest-news-card {
+        margin: auto 50px;
+        // height: 480px;
+        box-shadow: 2px 5px 25px -20px rgba(0,0,0,1);
+
+        img {
+            width: 100%;
+        }
+
+        .card-date {
+            color: #C8A375;
+            font-size: 14px;
+        }
+
+        .card-title {
+            font-size: 14px;
+            margin: auto 40px;
+            line-height: 1.6;
+        }
+
+        .card-paragraph {
+            font-size: 14px;
+            margin: 30px;
+        }
+    }
+}
+
+.latest-news-card:hover {
+    box-shadow: 2px 25px 45px -20px rgba(0,0,0,0.4); 
+}
+
+.latest-news-read-more h1 {
+    font-size: 14px;
+    color: #2E2E2E;
+
+    &:hover {
+        cursor: pointer;
+    }
+}
+
+.read-more-icon {
+    margin-left: 8px;
+    color: #2E2E2E;
+
+    &:hover {
+        cursor: pointer;
+    }
+}
+
+
+
+// Responsive
+@media screen and (max-width: 1200px) {
+    .latest-news-card {
+      margin: auto 35px !important;
+    }
+}
+
+@media screen and (max-width: 1060px) {
+    .latest-news-content {
+        margin: 60px;
+        grid-template-columns: 1fr 1fr;
+    }
+    .latest-news-card {
+        margin: 30px !important;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .latest-news-content {
+        margin: 40px;
+    }
+}
+
+@media screen and (max-width: 680px) {
+    .latest-news-content {
+        margin: 20px;
+    }
+    .latest-news-card {
+        margin: 30px 20px !important;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .latest-news-content {
+        grid-template-columns: auto;
+    }
+    .latest-news-card {
+        height: auto !important;
+    }
+}
+
+@media screen and (max-width: 300px) {
+    .latest-news-card {
+        margin: 30px 0 !important;
+    }
+}

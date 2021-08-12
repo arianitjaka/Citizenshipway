@@ -1,0 +1,149 @@
+.testimonials {
+    margin-top: 100px;
+}
+
+.testimonials-title h1 {
+    width: max-content;
+    margin: auto;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+.testimonials-content {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    margin-top: 30px;
+}
+
+.testimonials-photo {
+    
+    img {
+        width: 400px;
+        float: right;
+    }
+}
+
+.testimonials-info {
+    width: 100%;
+
+    .testimonials-big-line-right {
+        height: 40px;
+        width: 20%;
+        float: right;
+        background-color: #2E2E2E;
+        margin-top: 30px;
+    }
+
+    .testimonials-text {
+        background-color: rgba($color: #C8A375, $alpha: 0.08);
+        height: auto;
+        margin: 50px auto auto auto;
+        padding: 60px 140px;
+        text-align: left;
+
+        img {
+            width: 50px;
+        }
+
+        p {
+            max-width: 600px;
+            line-height: 1.6;
+            font-size: 20px;
+            font-weight: 600;
+        }
+    }
+}
+
+.testimonials-date {
+    display: flex;
+    align-items: center;
+    margin-top: 35px;
+
+    img {
+        margin-right: 15px;
+    } 
+}
+
+.testimonials-big-line-left {
+    height: 40px;
+    width: 17%;
+    background-color: #C8A375;
+    margin-top: -20px;
+}
+
+
+
+// Responsive
+@media screen and (max-width: 1200px) {
+    .testimonials-text {
+        padding: 60px 120px !important;
+    }
+}
+
+@media screen and (max-width: 1155px) {
+    .testimonials-text {
+        padding: 60px 100px !important;
+
+        p {
+            font-size: 18px !important;
+        }
+
+        img {
+            width: 40px !important;
+        }
+    }
+    p.testimonials-date {
+        font-size: 16px !important;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .testimonials-text {
+        padding: 50px 80px !important;
+    }
+}
+
+@media screen and (max-width: 880px) {
+    .testimonials-photo img {
+            width: 350px;
+    }
+    .testimonials-text {
+        margin: 30px auto auto auto !important;
+        padding: 40px 60px !important;
+
+        p {
+            font-size: 16px !important;
+        }
+
+        img {
+            width: 40px !important;
+        }
+    }
+    .testimonials-big-line-right {
+        margin-top: 10px !important;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .testimonials-content {
+        grid-template-columns: auto;
+    }
+    .testimonials-photo img {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 350px) {
+    .testimonials-text {
+        padding: 30px !important;
+
+        p {
+            font-size: 14px !important;
+        }
+
+        img {
+            width: 30px !important;
+        }
+    }
+}

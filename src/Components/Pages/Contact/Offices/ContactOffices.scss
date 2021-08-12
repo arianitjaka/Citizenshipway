@@ -1,0 +1,146 @@
+.offices {
+    margin-top: 80px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.offices-left {
+    text-align: left;
+    margin-left: 100px;
+
+    .offices-header h1 {
+        font-weight: 400;
+        font-size: 20px;
+        text-transform: uppercase;
+        margin-left: 20px;
+        margin-top: 0;
+    }
+
+    .offices-title h1 {
+        font-weight: 600;
+        margin-top: 0;
+    }
+}
+
+.offices-right {
+
+    img {
+        width: 99%;
+        height: 100%;
+        filter: brightness(65%);
+    }
+}
+
+.offices-countries {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid rgba($color: #707070, $alpha: 0.1);
+    padding: 3px 30px 3px 0;
+
+    .country-flag-and-name {
+        display: flex;
+        align-items: center;
+
+        h4 {
+            margin-left: 20px;
+            color: #878787;
+            font-weight: 400;
+        }
+    }
+}
+
+.offices-btn {
+    margin-top: 15px;
+
+    .view-all-btn {
+        display: flex;
+        align-items: center;
+        border: 0;
+        background-color: transparent;
+    
+        h4 {
+            color: #C8A375;
+        }
+    
+        img {
+            margin-left: 6px;
+        }
+    }
+}
+
+.country-more-info {
+    background-color: #FCFCFC;
+
+    .country-more-info-content {
+        display: flex;
+        align-items: center;
+        margin: 10px auto 10px 50px;
+        
+
+        img {
+            margin-right: 10px;
+        }
+
+        h5 {
+            font-weight: 400;
+            color: #878787;
+            margin: 8px 0;
+        }
+    }
+}
+
+
+
+
+// Responsive
+@media (min-width: 1025px) and (max-width: 1280px) {
+    .offices-right img {
+        width: 95%;
+        float: left;
+    } 
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+    .offices {
+        grid-template-columns: 1fr;
+    }
+    .offices-left {
+        order: 2;
+        margin: 40px;
+    }  
+    .offices-right img {
+        width: 95%;
+    }      
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+    .offices {
+        grid-template-columns: 1fr;
+    }
+    .offices-left {
+        order: 2;
+        margin: 40px;
+    } 
+    .offices-right img {
+        width: 95%;
+    }   
+}
+
+@media (min-width: 280px) and (max-width: 480px) {
+    .country-more-info-content {
+        display: flex;
+        align-items: center;
+        margin: 10px !important;
+    }
+    .offices {
+        grid-template-columns: 1fr;
+    }
+    .offices-left {
+        order: 2;
+        margin: 20px;
+    } 
+    .offices-right img {
+        width: 95%;
+    } 
+}
+

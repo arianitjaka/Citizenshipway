@@ -1,0 +1,84 @@
+.values {
+    margin-top: 50px;
+}
+
+.values-title h1 {
+    width: max-content;
+    margin: auto;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+.values-column {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 20px 60px;
+}
+
+.trust-column, .connection-column, .confidentiality-column {
+    margin: 20px;
+    display: flex;
+}
+
+.trust-column svg, .connection-column svg, .confidentiality-column svg {
+    width: 1.3em;
+    height: 1.3em;
+    margin-right: 16px;
+    color: #C8A375;
+}
+
+.trust-info, .connection-info, .confidentiality-column {
+    text-align: left;
+
+    h1 {
+        font-size: 16px;
+        margin-top: 0;
+        font-weight: 600;
+    }
+
+    p {
+        font-size: 14px;
+        color: #8B8B8B;
+        line-height: 1.8;
+    }
+}
+
+
+
+// Responsive
+@media screen and (max-width: 768px) {
+    .values-column {
+        padding: 20px 40px;
+    }
+}
+
+@media screen and (max-width: 680px) {
+    .values-column {
+        padding: 20px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .values-column {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    .values-column {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .trust-column, .connection-column, .confidentiality-column {
+        margin: 10px;
+    }
+}
+
+@media screen and (max-width: 300px) {
+    .trust-column, .connection-column, .confidentiality-column {
+        margin: 10px 0;
+    }
+}

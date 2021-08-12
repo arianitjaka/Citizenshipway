@@ -1,0 +1,101 @@
+.banner-div {
+  max-width: 700px;
+  margin: auto;
+  padding: 200px;
+  color: white;
+
+  #HeaderTitle {
+    font-size: 2.8em;
+    font-weight: 500;
+  }
+
+  .banner-paragraph {
+    font-size: 14px;
+    margin-top: -10px;
+    line-height: 1.7;
+  }
+}
+
+  .banner-btn {
+    border-radius: 50px;
+    border: 0;
+    background-color: #C8A375;
+    color: white;
+    margin: 50px 20px 0 20px;
+  
+    &-text {
+      font-size: 14px;
+      padding: 2px 40px;
+    }
+
+    &:hover {
+      background-color: #af9069;
+      cursor: pointer;
+    }
+  }
+
+
+// Responsive 
+@media screen and (max-width: 630px) {
+  .banner-text {
+    font-size: 2.4em !important;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .banner-div {
+    padding: 100px 50px !important;
+  
+    .banner-paragraph {
+      font-size: 13px !important;
+    }   
+}
+  .banner-btn {
+    margin: 40px 10px 0 10px !important;
+
+    &-text {
+      font-size: 13px !important;
+    }
+  }
+}
+
+@media screen and (max-width: 468px) {
+  .banner-text {
+    font-size: 2em !important;
+  }
+  .banner-div {
+    padding: 95px 50px !important;
+  
+    .banner-paragraph {
+      font-size: 13px !important;
+      margin-top: 20px;
+    }   
+  }
+    .banner-btn-text {
+      padding: 2px 35px;
+    }
+}
+
+@media screen and (max-width: 410px) {
+  .banner-text {
+    font-size: 1.8em !important;
+  }
+  .banner-div {
+    padding: 95px 40px !important;
+  }
+}
+
+@media screen and (max-width: 360px) {
+  .banner-div {
+    padding: 95px 30px !important;
+  
+    .banner-paragraph {
+      font-size: 13px !important;
+      margin-top: 20px;
+    }   
+  }
+    .banner-btn-text {
+      font-size: 12px !important;
+      padding: 1px 25px;
+    }
+}

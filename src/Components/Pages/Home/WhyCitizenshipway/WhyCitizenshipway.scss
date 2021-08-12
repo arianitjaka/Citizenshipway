@@ -1,0 +1,149 @@
+.why-div {
+    margin-top: 100px;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.5),
+                       rgba(0, 0, 0, 0.65)), url('../../../../Assets/Home/WhyCitizenshipway/background.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position-y: 49%;
+        // height: 525px;
+        color: white;
+}
+
+.why-container {
+    padding: 80px 150px 40px 150px;
+    // border: 1px solid red;
+}
+
+.why-title {
+    text-align: left;
+
+    h1 {
+        font-weight: 400;
+        font-size: 28px;
+    }
+}
+
+.why-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top: 100px;
+
+    .why-cards {
+        border: 1px solid white;
+        text-align: left;
+        padding: 10px 20px;
+
+        h1 {
+            font-size: 16px;
+            font-weight: 500;
+            margin-top: 50px;
+        }
+
+        p {
+            font-size: 14px;
+            line-height: 1.8;
+        }
+
+        img {
+            width: 55px;
+            position: absolute;
+            margin-top: -50px;
+        }
+    }
+
+    #licenced-agents {
+        margin-right: 80px;
+    }
+
+    #tailored-solutions {
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+
+    #apply-confidence {
+        margin-left: 80px;
+    }
+}
+
+
+// Responsive
+@media screen and (max-width: 1310px) {
+    .why-container {
+        padding: 60px 120px 40px 120px;
+    }
+}
+
+@media screen and (max-width: 1220px) {
+    .why-container {
+        padding: 40px 100px 40px 100px;
+    }
+    #licenced-agents {
+        margin-right: 60px !important;
+    }
+
+    #tailored-solutions {
+        margin-left: 20px !important;
+        margin-right: 20px !important;
+    }
+
+    #apply-confidence {
+        margin-left: 60px !important;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .why-container {
+        padding: 40px 80px 40px 80px;
+    }
+}
+
+@media screen and (max-width: 850px) {
+    #licenced-agents {
+        margin-right: 40px !important;
+    }
+
+    #tailored-solutions {
+        margin-left: 20px !important;
+        margin-right: 20px !important;
+    }
+
+    #apply-confidence {
+        margin-left: 40px !important;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .why-container {
+        padding: 40px 60px 40px 60px;
+    }
+}
+
+@media screen and (max-width: 680px) {
+    .why-content {
+        grid-template-columns: 2fr 2fr;
+    }
+    #licenced-agents, #tailored-solutions, #apply-confidence {
+        margin: 20px !important;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .why-container {
+        padding: 40px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .why-content {
+        grid-template-columns: auto;
+    }
+    #licenced-agents, #tailored-solutions, #apply-confidence {
+        margin: 35px 0 !important;
+    }
+}
+
+@media screen and (max-width: 330px) {
+    .why-container {
+        padding: 20px;
+    }
+}

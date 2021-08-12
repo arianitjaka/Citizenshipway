@@ -1,0 +1,103 @@
+.citizenship-by-investment {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 100px;
+    align-items: center;
+}
+
+.cbi-left {
+    padding: 100px;
+
+    .cbi-header {
+        text-align: left;
+
+        h1 {
+            font-size: 28px;
+            font-weight: 600;
+        }
+
+        p {
+            font-size: 14px;
+            line-height: 1.8;
+        }
+    }
+
+    .cbi-btn {
+        text-align: left;
+        margin-top: 40px;
+
+        .cbi-btn-content {
+            border: 2px solid #C8A375;
+            border-radius: 50px;
+            background-color: transparent;
+
+            h1 {
+                font-size: 14px;
+                color: #C8A375;
+                font-weight: 400;
+                margin: 12px 30px;
+            }
+
+            &:hover {
+                background-color: #C8A375;
+                cursor: pointer;
+
+                h1 {
+                    color: white;
+                }
+              }
+        }
+    }
+}
+
+.cbi-right {
+
+    img {
+        width: 80%;
+    }
+}
+
+
+// Responsive
+@media (min-width: 1025px) and (max-width: 1280px) {
+    .citizenship-by-investment {
+        padding: 50px;
+    }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+    .citizenship-by-investment {
+        padding: 50px;
+    }  
+    .cbi-left {
+        padding: 50px; 
+    }   
+    .cbi-right img {
+        width: 100%;
+    } 
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+    .citizenship-by-investment {
+        grid-template-columns: 1fr;
+        padding: 50px;
+    } 
+    .cbi-left {
+        padding: 50px 0; 
+    } 
+    .cbi-right img {
+        width: 100%;
+    } 
+}
+
+@media (min-width: 280px) and (max-width: 480px) {
+    .citizenship-by-investment {
+        grid-template-columns: 1fr;
+        padding: 20px;
+    } 
+    .cbi-left {
+        padding: 50px 0; 
+    } 
+    .cbi-right img {
+        width: 100%;
+    } 
+}

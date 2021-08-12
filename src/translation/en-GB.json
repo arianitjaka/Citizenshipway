@@ -1,0 +1,374 @@
+{
+    "Home":"Home",
+    "About" : "About",
+    "Citizenship" : "Citizenship",
+    "Residency":"Residency",
+    "Countries":"Countries",
+    "Resources":"Resources",
+    "Contact":"Contact",
+
+
+
+    "HeaderTitle":"Invest in your future",
+    "HeaderParagraph":"Interested in citizenship or residency in Europe, North America or the Caribbean? Do you want to create an alternative personal and financial foothold? We’re here to help you make it happen.",
+    "HeaderButton":"Book a Consultation",
+
+
+
+    "GlobalCitizens":"Global Citizens",
+    "GCParagraph" : "Cintzienshipway is the global leader in residence and citizenship planning. Each year, hundreds of wealthy individuals and their advisors rely on our expertise and experience in this area. The firm’s highly qualified professionals work together as one team in over 30 countries worldwide.",
+    "GCButton" : "Learn More",
+    "GCRightText" : "No intermediaries. Licensed, expert team.",
+
+
+
+    "Services":"Services",
+    "CitizenshipByInvestments":"Citizenship by Investments",
+    "CBIParagraph":"We cover all major citizenship by investment programmes. Do you want a second passport? Contact us for a compliementary consultation.",
+    "ResidencePermits":"Residence Permits",
+    "RPParagraph":"We offer residency planning services and assist our clients to obtain a residence permit in their preferred location.",
+    "AdvisoryComplienceServices":"Advisory & Compliance Services",
+    "ACSParagraph":"We help you maximise your company's compliance with local rules, regulations and requirements.",
+
+
+
+    "EnhanceYourTravelFreedom":"Enhance your travel freedom",
+    "EYTFPragraph":"Only nine countries offer citizenship programs that provide a direct route to citizenship based on investment and a thorough multistage due diligence process.",
+    "EYTFPButton": "Citizenship Option",
+    "ExpandYourGlobalFootprint":"Expand your global footprint",
+    "EYGFParagraph":"Citizenshipway focuses on the most attractive residency programs in the world with consideration to quality of life, mobility, taxation, privacy, and security.",
+    "EYGFPButton": "Residence Option",
+
+
+
+    "Programs":"PROGRAMS",
+    "CitizenshipOption" : "Citizenship",
+    "ResidenceOption" : "Residence",
+
+    "VanatuCity":"VANUATU",
+    "VanatuInfo":"Vanuatu Citizenship Increasingly popular for Asian clients Average 2 months processing time",
+    "VanatuPrice":"From US$ 150,000",
+
+    "GrenadaCity":"GRENADA",
+    "GrenadaInfo":"Commonwealth citizenship Visa-free access Europe, Russia & China Qualify for USA E-2 visa application",
+    "GreanadaPrice":"From US$ 250,000",
+
+    "AustriaCity":"AUSTRIA",
+    "AustriaInfo":"Austrian citizenship One of the world’s strongest passports Average 4 months processing time",
+    "AustriaPrice":"From EUR 3 million",
+
+    "AntiguaBarbudaCity":"ANTIGUA AND BARBUDA",
+    "AntiguaBarbudaInfo":"Commonwealth citizenship Best value of the Caribbean programs Average 4 months processing time",
+    "AntiguaBarbudaPrice":"From US$ 150,000",
+
+    "DominicaCity":"DOMINICA",
+    "DominicaInfo":"Commonwealth citizenship Popular option Average 2 months processing time",
+    "DominicaPrice":"From US$ 135,000",
+
+    "MaltaCity":"MALTA",
+    "MaltaInfo":"European citizenship Most popular European program Average 12-14 months processing time",
+    "MaltaPrice":"From EUR 850,000",
+
+    "StLuciaCity":"ST. LUCIA",
+    "StLuciaInfo":"Commonwealth citizenship Newest of the Caribbean programs Average 6-8 months processing time",
+    "StLuciaPrice":"From US$ 100,000",
+
+    "StKittsNevisCity":"ST. KITTS & NEVIS",
+    "StKittsNevisInfo":"Commonwealth citizenship Oldest of the Caribbean programs Average 4 months processing time",
+    "StKittsNevisPrice":"From US$ 150,000",
+
+    "ProgramsButton": "View All",
+
+
+
+    "WhyCitizenshipway":"Why Citizenshipway",
+    "WhyCitizenshipwayParagraph" : "Every day, individual clients as well as other wealth advisors worldwide rely on us for advice on international residence and citizenship matters.",
+    
+    "LicencedAgents" : "Licenced Agents",
+    "LicencedAgentsParagraph":"We work directly with the government and partners on the ground in the jurisdiction.",
+
+    "TailoredSolutions":"Tailored Solutions",
+    "TailoredSolutionsParagraph":"Each of our clients is unique and we tailor our solutions to your requirements.",
+
+    "ApplyInConfidence":"Apply in Confidence",
+    "ApplyInConfidenceParagraph":"We will only represent applications we are confident will be successful and observe strict.",
+    
+
+
+    "LatestNews":"LATEST NEWS",
+
+    "LNLeftDate" : "Jan 8, 2021",
+    "LNLeftTitle" : "How do I get started on second passports for my family and which one is best?",
+    "LNLeftParagraph":"KAL KENNARD, PARTNER Having visited many of the Caribbean islands...",
+
+    "LNCenterDate":"Jan 7, 2021",
+    "LNCenterTitle":"The Decline of Freedom",
+    "LNCenterParagraph":"Cyprus Authorities in attempts to retain competitiveness adapted the Cyprus...",
+
+    "LNRightDate":"Jan 8, 2021",
+    "LNRightTitle":"Three Caribbean Investment Migration Innovations",
+    "LNRightParagraph":"Caribbean island nations have been particularly innovative in response to the global pandemic...",
+
+
+    "LNLink":"Read more",
+
+
+
+    "Testimonials":"TESTIMONIALS",
+    "TestimonialsInfo" : "The paperwork process went smoothly which was my biggest concern. You went above and beyond in keeping our application on track so thank you for that. We are very much looking forward to our visit in December.",
+    "TestimonialsDate" : "USA, October 2020",
+
+
+
+    "AboutTitle":"About Us",
+    "AboutParagraph" : "Citizenshipway is a highly regarded provider of trust and corporate services specializing in a multi-jurisdictional tax planning, asset protection, and tax efficient structures.",
+
+    
+
+    "ValuesTitle" : "VALUES",
+    "ValueLeftTitle" : "Trust",
+    "ValueLeftParagraph":"We file annual accounts and we are transparent with our financial affairs as required by the Companies Act.",
+    "ValueCenterTitle":"Connection",
+    "ValueCenterParagraph":"We have over 15 years experience operating here in different places with attractive residency and citizenship programs.",
+    "ValueRightTitle":"Confidentiality",
+    "ValueRightParagraph":"We understand your needs and we understand the nature and confidentiality of any information we are party to.",
+
+
+
+    "Story":"STORY",
+    "StoryTitle" : "Our Story",
+    "StoryParagraph" : "As globalization has expanded, residence and citizenship have become topics of significant interest among the increasing number of internationally mobile entrepreneurs and investors whom we proudly serve every day. We have been involved in strategic consulting and the design, set-up, and operation of the world’s most successful residence and citizenship programs.",
+    "StoryButton":"Read full story",
+    
+
+
+    "CCLeftTitle":"WE KNOW THE LIFE OF AN INTERNATIONAL CITIZEN STRIDING BETWEEN COUNTRIES AND CULTURES.",
+    "CCRightTitle" : "We aim to provide each client with innovative solutions to problems and fresh ideas upon which true success depends. This means long and hard work, attention to every detail and swift response to problems.",
+    "CCLeftColumn" : "Citizenshipway founder and entrepreneur creates the Program to raise citizenship investment for different industries, namely aquaculture and tourism development.",
+    "CCCenterColumn":"With key partners and investment in different countries we partner with the governments to lobby and educate the parliamentarians and the country on the potential program.",
+    "CCRightColumn":"We provide a range of services that are essential to protect and grow your wealth. We now represent residency programs in 30 different countries worldwide with Citizenship by Investment Program.",
+    
+
+
+    "OurPurpose":"Our Purpose",
+    "OurPurposeParagraph" : "We work towards a world where a sensible flow of people and capital between countries — for trade, tourism, labor, and investment — contributes to global peace and prosperity and where people live in dignity and security in their countries of birth or countries of choice.",
+    "OurPurposeLeft" : "Enhancing human potential through global citizenship",
+
+
+
+    "KeyPeople":"KEY PEOPLE",
+    "MeetTheTeam" : "Meet the team",
+    "KPLeft" : "OUR PEOPLE ARE HIGH PROFESSIONALS, CAREFULLY RECRUITED AND SUITABLY-TRAINED.",
+    "KPRight":"By assembling a team of international professionals, we offer a bridge of international competency for clients applying for citizenship or residency or whom desire a foothold in the Caribbean, Cyprus, Malta and many more. Our team are all international citizens themselves with multiple citizenships.",
+    
+    "KPSpecialTitle":"FOUNDER",
+    "KPSpecialName":"LAURA ALAN",
+    "KPSpecialInfo":"Laura Alan is the founder of Citizenshipway and was born in Ireland and raised in Canada. Coming from an entrepreneurial family Brian began his own business 20 years ago and has had significant success internationally in property development and sales.",
+    "KPSpecialButton":"Read bio",
+
+    "KPName1":"IVOR BROWN",
+    "KPJob1":"MANAGING PARTNER",
+    "KPName2":"OLIVIA WALKER",
+    "KPJob2":"PARTNER",
+    "KPName3":"HARRY GRAHAM",
+    "KPJob3":"DIRECTOR (ANTIGUA)",
+    "KPName4":"KEVIN RUTHERGORD",
+    "KPJob4":"SENIOR CITIZENSHIP CONSULTANT",
+    "KPName5":"FIONA MITCHELL",
+    "KPJob5":"DIRECTOR (CAYMAN ISLANDS)",
+    "KPName6":"PETER DAVIES",
+    "KPJob6":"DIRECTOR (DUBAI)",
+    "KPName7":"HANNAH GIBSON",
+    "KPJob7":"DIRECTOR (EUROPE)",
+
+    "KPButton":"View All",
+
+
+
+    "Offices":"OFFICES",
+    "WorldwideOffices" : "Worldwide offices",
+    "AntiguaAndBarbuda" : "Antigua and Barbuda",
+    "Grenada":"Grenada",
+    "Malta":"Malta",
+    "Cyprus":"Cyprus",
+    "DubaiUAE":"Dubai (UAE)",
+    "StKittsNevis":"St. Kitts and Nevis",
+    "StLucia":"St. Lucia",
+
+    "OfficesButton":"View all",
+
+
+
+    "CitizenshipTitle":"Citizenship by investment",
+    "CitizenshipParagraph" : "Citizenship by investment programmes will grant immediate citizenship to applicants and their families. That means qualification for a second passport and hence their incredible popularity amongst our clients for the international travel possibilities they present.",
+    
+    
+    
+    "CitizenshipByInvestment" : "Citizenship by Investment",
+    "CBIParagraphh":"A growing number of countries now offer immigrant investor programs, exchanging residence rights or citizenship for a sizeable investment in their economies. From 'cash-for-citizenship' to incentives to invest in private sector businesses or property, the market for investor immigration has become increasingly diverse.",
+    "CBIButton":"Private Client Enquiry",
+
+
+
+    "CitizenshipPlanning":"Citizenship Planning",
+
+    "CitizenshipByInvestmentOverview":"Citizenship-by-Investment Overview",
+    "CBIOParagraph":"Citizenship-by-investment programs offer you the opportunity to legally acquire a new citizenship quickly and simply, without onerous, typical visa and passport application processes.",
+    
+    "WhyCitizenshipByInvestment":"Why Citizenship-by-Investment?",
+    "WhyCBIParagraph":"In an unsettled, ever-changing world, acquiring an alternative citizenship is a wise decision and an investment for the future.",
+    
+    "ImportantPoints":"Important Points",
+    "IPParagraph":"Citizenship is the most privileged form of nationality, a broader term that is used in international law to denote all persons whom a state is entitled to protect.",
+
+    "CPButton":"Read more",
+
+
+
+    "PermanentResidencePermit":"Permanent Residence Permit",
+    "PRPParagraph" : "An attractive alternative to acquiring a second citizenship by investment is to obtain a permanent residence permit or a long-term visa. This is where you and your family can apply for permanent residency in a country by making an investment or the purchase of a property.",
+    
+    
+    
+    "ResidenceByInvestment" : "Residence-by-Investment",
+    "RBIParagraph":"Residence-by-investment programs provide high-net-worth individuals (HNWIs) with the option of relocating and the right to live, work, study, and receive healthcare in their new country of residence. Citizenshipway offers residence-by-investment programs in some of the world’s top places in terms of business environment, quality of life, and the possibility of acquiring citizenship.",
+    "RBIButton":"Private Client Enquiry",
+    
+    
+    
+    "AustriaParagraph":"Learn how to become a permanent resident in Austria and obtain a permanent residency permit.",
+
+    "CyprusCity":"CYPRUS",
+    "CyprusParagraph":"Obtain Cyprus Permanent Residency in just two months!",
+
+    "GreeceCity":"GREECE",
+    "GreeceParagraph":"Learn more about how you can obtain a residence permit in Greece.",
+
+    "MaltaParagraph":"Obtain Permanent Residency in Malta's via the Residence and Visa Programme.",
+
+    "PortugalCity":"PORTUGAL",
+    "PortugalParagraph":"Program is a pathway to visa-free travel in Europe’s Schengen Area and offers the right to live, work, and study in Portugal.",
+    
+    "UAECity":"UAE",
+    "UAEParagraph":"(UAE) has increasingly emerged as one of the most popular jurisdictions worldwide for residency.",
+
+    "AustraliaCity":"AUSTRALIA",
+    "AustraliaParagraph":"Australia is a leading destination for global business innovators seeking a high quality of life.",
+
+    "NewZealandCity":"NEW ZEALAND",
+    "NewZealandParagraph":"New Zealand promises a high standard of living and economic, political, and social stability.",
+
+    "ProgramsButton2":"Learn More",
+
+
+
+    "ResidencePlanning":"Residence Planning",
+    "RPTitle" : "Residence Planning",
+    "RPParagraphh" : "Every day, individual private clients and families, together with their trusted advisors worldwide, rely on us for our specialist knowledge in international residence solutions.",
+    "IPTitle":"Important Points",
+    "IPParagraphh":"A change of residence to a suitable country is an increasingly important aspect of international planning for private clients.",
+    "REOTitle":"Real Estate Overview",
+    "REOParagraph":"The acquisition of real estate abroad is an important component in residence and citizenship planning. However, it requires careful and professional attention.",
+
+
+
+    "InvestmentMigrationCountries":"Investment Migration Countries",
+    "IMCParagraph" : "Our clients and their advisors recognize the value of an alternative residence and/or citizenship as an important pillar for their families’ wellbeing and futures.",
+    
+    
+    
+    "PrivateClients" : "Private Clients",
+    "PCParagraph":"Clients of Citizenshipway include high-net-worth and ultra-high-net worth-individuals and families, entrepreneurs, and investors, as well as top-level managers, artists, and celebrities of the fashion, entertainment, and sports worlds.",
+    
+    "GovernmentAdvisory":"Government Advisory",
+    "GAParagraph":"Citizenshipway’s government advisory practice focuses on creating favorable conditions for foreign direct investment through the design, implementation, and operation of investment migration programs.",
+    
+    "PracticeGroup":"Practice Group",
+    "PGParagraph":"The international Residence and Citizenship Practice Group of Citizenshipway is made up of specialists located in different offices, spread throughout the world.",
+
+
+
+    "IMCTitle":"Investment Migration Countries",
+    "IMCParagraphh" : "Acquiring an alternative residence or citizenship is the best possible insurance policy against economic and political uncertainty, in addition to enabling global mobility. There is no hierarchy between residence- and citizenship-by-investment programs.",
+    "IMCButton" : "Private Client Enquiry",
+
+
+
+    "CCountries":"COUNTRIES",
+    "CountriesCitizenship":"Citizenship",
+    "CountriesResidence":"Residence",
+
+    "EuropeanCitizenship":"European Citizenship-by-Investment Programs",
+    "EuropenAustriaParagraph":"From EUR 3 million Processing time: 24–38 months Opportunity to become an EU citizen",
+    "EuropeanMoreInfo":"More Info",
+    "MontenegroCity":"MONTENEGRO",
+    "TurkeyCity":"TURKEY",
+
+    "CaribbeanCitizenship":"Caribbean Citizenship-by-Investment Programs",
+
+    "CountriesLearnMore":"Learn More",
+
+    "CountriesContactUs":"Contact Us",
+    "CCUParagraph":"Citizenshipway assists international clients in obtaining residence and citizenship under the respective programs. Contact us to arrange an initial private consultation.",
+    "CountriesButton":"Enquiry",
+
+    "CountriesRightText":"Life the life you deserve!",
+
+
+
+    "ContactTitle":"Contact",
+
+
+
+    "GeneralEnquiryForm" : "General Enquiry Form",
+    "GEFParagraph" : "Please tick the appropriate boxes and provide your basic contact details. One of our advisors will contact you shortly via e-mail or telephone.",
+    
+    
+    
+    "FormTitle":"Please tick the box that best describes your enquiry",
+    "RadioOne":"I am interested in obtaining a residence permit",
+    "RadioTwo":"I am interested in obtaining an alternative citizenship",
+    "RadioThree":"I am interested in acquiring real estate",
+    "ContactInformation":"Contact information",
+    "Salutation":"Salutation",
+    "HowDidYouHearAboutUs":"How did you hear about us?",
+    "Select":"Select",
+    "FirstName ":"First Name ",
+    "EnterFirstName ":"Enter first name",
+    "LastName":"Last Name",
+    "EnterLastName":"Enter last name",
+    "Nationality ":"Nationality ",
+    "CountryOfResidence":"Country of residence",
+    "PrimaryEmail":"Primary Email",
+    "EnterEmail":"Enter primary email",
+    "AlternativeEmail":"Alternative Email",
+    "EnterAlternativeEmail":"Enter alternative email",
+    "PhoneNumber":"Phone Number",
+    "EnterPhoneNumber":"Enter phone number",
+    "Message":"Message",
+    "MessageQuestion":"I have a specific question...",
+    "TextLimit":"Text limit 5,000 characters",
+
+    "FormButton":"Submit",
+
+
+
+    "InfoLeft":"Private client",
+    "ILParagraph" : "If you are a private individual or represent a private client and would like to enquire about the services we provide, please complete the private client enquiry.",
+    "ILLink" : "Private client enquiry",
+
+    "InfoCenter":"Government",
+    "ICParagraph":"If you are a government representative and would like to discuss a possible engagement with our firm, please complete the government enquiry.",
+    "ICLink":"Government enquiry",
+
+    "InfoRight":"Looking to start you career",
+    "IRParagraph":"If you are looking for a career opportunity at Citizenshipway, please visit the jobs and careers page.",
+    "IRLink":"Career Page",
+
+
+
+    "OfficeLocation":"31 Gambles Estate, St. John’s, Antigua",
+    "OfficePhone":"+1 514 288 1997",
+    "OfficeEmail":"Send Enquiry"
+
+}

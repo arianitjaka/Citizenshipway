@@ -1,0 +1,73 @@
+.select-language {
+    color: white;
+    cursor: pointer;
+    display: flex;
+    position: relative;
+    width: fit-content;
+    margin: auto;
+    // padding: 5px;
+    align-items: center;
+    // border: 3px solid#fff;
+    // border-radius: 10px;
+    justify-content: center;
+    // margin-left: 1300px;
+    // margin-top: -40px;
+
+  }
+  .select-language .arrow {
+    margin-left: 10px;
+  }
+  .select-language .single-language {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: left;
+    padding: 5px;
+    width: 100%;
+  }
+  .select-language .single-language .flag {
+    width: 10px;
+    margin-right: 10px;
+  }
+  .select-language .single-language .text {
+    color: white;
+    width: 70%;
+  }
+  .select-language .single-language:hover {
+    background-color: gray;
+  }
+  .select-language .single-language.selected {
+    background-color:  gray;
+  }
+  .select-language .dropdown {
+    position: absolute;
+    bottom: 40px;
+    left: -3px;
+    right: -3px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #2E2E2E;
+    // border: 3px solid #fff;
+    max-height: 0;
+    overflow: hidden;
+    transition: all 0.5s linear;
+    border-bottom: none;
+    visibility: hidden;
+    padding: 5px 1px;
+  }
+  // .select-language:hover {
+  //   border-top-left-radius: 0;
+  //   border-top-right-radius: 0;
+  //   border-top: none;
+  // }
+  .select-language:hover .dropdown {
+    // max-height: 400px;
+    max-height: 205px;
+    visibility: visible;
+  }
+  .select-language img {
+    margin-right: 10px;
+    // width: 35px;
+  }

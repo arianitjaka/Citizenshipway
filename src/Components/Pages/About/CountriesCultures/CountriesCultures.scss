@@ -1,0 +1,97 @@
+.countries-cultures {
+    // border: 1px solid red;
+    margin-top: 50px;
+        width: auto;
+        background-color: white;
+        background-image: url('../../../../Assets/About/pic2.png');
+        background-repeat: no-repeat;
+        background-size: contain;
+        padding: 10px;
+}
+
+.cc-content {
+    margin: 30px 0 30px 200px;
+}
+
+.cc-header {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-align: left;
+}
+
+.cc-left h1 {
+    font-size: 20px;
+    color: #C8A375;
+    font-weight: 600;
+    margin: 20px;
+}
+
+.cc-right h1 {
+    font-size: 15px;
+    font-weight: 400;
+    max-width: 550px;
+    line-height: 1.6;
+    opacity: .6;
+    margin: 20px;
+}
+
+.cc-column {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-align: left;
+    margin-top: 50px;
+}
+
+.cc-column-content {
+    border-left: 2px solid rgba($color: #C8A375, $alpha: 0.8);
+    border-bottom: 2px solid rgba($color: #707070, $alpha: 0.4);
+    padding: 0 100px 40px 40px;
+
+    h1 {
+        font-weight: 600;
+        color: #C8A375;
+        font-size: 20px;
+    }
+
+    p {
+        opacity: .6;
+        font-size: 14px;
+        line-height: 1.8;
+    }
+}
+
+
+
+@media screen and (max-width: 992px) {
+    .cc-column-content {
+        padding: 0 60px 40px 40px;
+    }
+}
+
+@media screen and (max-width: 860px) {
+    .cc-column-content {
+        padding: 0 20px 40px;
+    }
+    .cc-content {
+        margin: 30px 0 30px 150px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .countries-cultures {
+        padding: 0;
+    }
+    .cc-column {
+        grid-template-columns: 1fr;
+    }
+    .cc-content {
+        margin: 20px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .cc-header {
+        grid-template-columns: 1fr;
+    }
+}
+

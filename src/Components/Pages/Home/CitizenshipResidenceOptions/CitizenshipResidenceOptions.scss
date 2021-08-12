@@ -1,0 +1,152 @@
+.cr-options-div {
+    margin-top: 100px;
+    background-color: rgba($color: #C8A375, $alpha: 0.15);
+}
+
+.cr-options-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 40px;
+
+    .citizenship-option {
+        margin: 10px 5px;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.4),
+                       rgba(0, 0, 0, 0.65)), url('../../../../Assets/Home/CitizenshipResidenceOptions/airplane.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position-y: 45%;
+        height: 600px;
+        color: white;
+
+        .citizenship-option-content {
+            padding: 100px;
+
+            h1 {
+                font-size: 22px;
+            }
+
+            hr {
+                width: 12%;
+                margin-top: 25px;
+            }
+
+            p {
+                line-height: 1.9;
+                font-size: 14px;
+                margin: 40px;
+            }
+
+            .citizenship-option-btn {
+                background-color: #C8A375;
+                border: 0;
+                border-radius: 25px;
+
+                h4 {
+                    color: white;
+                    font-weight: 500;
+                    margin: 15px 40px;
+                }
+
+                &:hover {
+                    background-color: #af9069;
+                    cursor: pointer;
+                }
+            }
+        }
+    }
+
+
+    .residence-option {
+        margin: 10px 5px;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.1),
+                       rgba(0, 0, 0, 0.65)), url('../../../../Assets/Home/CitizenshipResidenceOptions/city.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position-x: 25%;
+        height: 600px;
+        color: white;
+
+        .residence-option-content {
+            padding: 100px;
+
+            h1 {
+                font-size: 22px;
+            }
+
+            hr {
+                width: 12%;
+                margin-top: 25px;
+            }
+
+            p {
+                line-height: 1.9;
+                font-size: 14px;
+                margin: 40px;
+            }
+
+            .residence-option-btn {
+                background-color: #C8A375;
+                border: 0;
+                border-radius: 25px;
+
+                h4 {
+                    color: white;
+                    font-weight: 500;
+                    margin: 15px 40px;
+                }
+
+                &:hover {
+                    background-color: #af9069;
+                    cursor: pointer;
+                }
+            }
+        }
+    }
+}
+
+
+
+// Responsive
+@media screen and (max-width: 1100px) {
+    .citizenship-option-content, .residence-option-content {
+        padding: 100px 50px !important;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .citizenship-option-content p {
+        margin: 40px 0 !important;
+    }
+    .residence-option-content p {
+        margin: 40px 0 !important;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .cr-options-content {
+      grid-template-columns: auto;
+    }
+    .cr-options-content {
+        padding: 20px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .citizenship-option-content, .residence-option-content {
+        padding: 100px 25px !important;
+    }
+    .citizenship-option-btn h4 {
+        margin: 12px 30px !important;
+        font-size: 12px;
+    }
+    .residence-option-btn h4 {
+        margin: 12px 30px !important;
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 330px) {
+    .citizenship-option-content, .residence-option-content {
+        padding: 80px 25px !important;
+    }
+}

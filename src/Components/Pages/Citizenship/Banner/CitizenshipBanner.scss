@@ -1,0 +1,71 @@
+.citizenship-banner-div {
+    max-width: 700px;
+    margin: auto;
+    padding: 150px;
+    color: white;
+  
+    .citizenship-banner-text {
+      font-size: 2.8em;
+      font-weight: 500;
+    }
+  
+    .citizenship-banner-paragraph {
+      font-size: 14px;
+      margin-top: -10px;
+      line-height: 1.7;
+    }
+  }
+  
+  
+  
+  // Responsive 
+  @media screen and (max-width: 630px) {
+    .citizenship-banner-text {
+      font-size: 2.4em !important;
+    }
+  }
+  
+  @media screen and (max-width: 568px) {
+    .citizenship-banner-div {
+      padding: 100px 50px !important;
+    
+      .citizenship-banner-paragraph {
+        font-size: 13px !important;
+      }   
+  }
+  }
+  
+  @media screen and (max-width: 468px) {
+    .citizenship-banner-text {
+      font-size: 2em !important;
+    }
+    .citizenship-banner-div {
+      padding: 95px 50px !important;
+    
+      .citizenship-banner-paragraph {
+        font-size: 13px !important;
+        margin-top: 20px;
+      }   
+    }
+  }
+  
+  @media screen and (max-width: 410px) {
+    .citizenship-banner-text {
+      font-size: 1.8em !important;
+    }
+    .citizenship-banner-div {
+      padding: 95px 40px !important;
+    }
+  }
+  
+  @media screen and (max-width: 360px) {
+    .citizenship-banner-div {
+      padding: 95px 30px !important;
+    
+      .citizenship-banner-paragraph {
+        font-size: 13px !important;
+        margin-top: 20px;
+      }   
+    }
+  }
+  

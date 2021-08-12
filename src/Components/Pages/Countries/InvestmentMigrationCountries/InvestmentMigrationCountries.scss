@@ -1,0 +1,130 @@
+.our-story {
+    margin-top: 75px;
+}
+
+.imc-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+// Left
+.imc-video {
+    position: relative; 
+        width: 100%;
+        display: block;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.2),
+                           rgba(0, 0, 0, 0.2)), url('../../../../Assets/Countries/imc-photo.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position-y: 70%;  
+
+    svg {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+        color: white;
+        width: 4.5em;
+        height: 4.5em;
+    }
+}
+
+// Right
+.imc-info {
+    margin: 80px 150px;
+    text-align: left;
+}
+
+.imc-title h1 {
+    font-weight: 600;
+    font-size: 28px;
+}
+
+.imc-paragraph p {
+    line-height: 1.5;
+    max-width: 400px;
+}
+
+.imc-btn {
+    margin-top: 45px;
+
+    .btn-content {
+        background-color: transparent;
+        border: 2px solid #C8A375;
+        border-radius: 50px;
+
+        h1 {
+            font-size: 14px;
+            font-weight: 400;
+            color: #C8A375;
+            padding: 5px 35px;
+        }
+
+        &:hover {
+            background-color: #C8A375;
+            cursor: pointer;
+
+            h1 {
+                color: white;
+            }
+        }
+    }
+}
+
+
+
+
+// Responsive
+@media (min-width: 1025px) and (max-width: 1280px) {
+    .imc-info {
+        margin: 80px;
+    }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+    .imc-info {
+        margin: 60px;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+    .imc-content {
+        grid-template-columns: auto;
+    }
+    .imc-video {
+        height: 500px;
+        width: auto;
+        margin: 20px;
+    }
+    .imc-info {
+        margin: 20px;
+    }
+    .imc-paragraph p {
+        line-height: 1.5;
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 280px) and (max-width: 480px) {
+    .imc-content {
+        grid-template-columns: auto;
+    }
+    .imc-video {
+        height: 500px;
+        width: auto;
+        margin: 10px;
+
+        svg {
+            width: 3.5em;
+            height: 3.5em;
+        }
+    }
+    .imc-info {
+        margin: 20px;
+    }
+    .imc-paragraph p {
+        line-height: 1.5;
+        max-width: 100%;
+    }
+}

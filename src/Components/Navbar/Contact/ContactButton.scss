@@ -1,0 +1,43 @@
+.contact-button-div {
+    display: flex;
+    width: 120px;
+    margin-right: 50px;
+    // margin-left: -120px;
+}
+
+.contact-button {
+    height: auto;
+    width: 100%;
+    margin: 22px 5px;
+    border-radius: 50px;
+    border: 1px solid white;
+    background-color: transparent;
+
+    &:hover {
+        background-color: rgba(236, 236, 236, 0.5);
+    }
+}
+
+.contact-btn-content {
+    background-color: transparent;
+    border: 0;
+    margin: 10px 5px;
+
+    &:hover {
+        cursor: pointer;
+    }
+}
+
+.button-text {
+    margin: auto;
+    color: white;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+
+@media screen and (max-width: 1400px) {
+    .contact-button-div {
+      display: none;
+    }
+}

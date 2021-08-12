@@ -1,0 +1,137 @@
+.title-header {
+    width: max-content;
+    margin: auto;
+    font-size: 22px;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+.services-card {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 50px 180px;
+    text-align: left;
+}
+
+.citizenship-by-investment {
+    border: 2px solid #C9C9C9;
+    margin: 30px;
+    border-radius: 8px;
+    padding: 60px 40px 30px 30px;
+
+    svg {
+        width: 2em;
+        height: 2em;
+    }
+    
+    .first-card-title {
+        font-size: 16px;
+        margin-top: 30px;
+    }
+    
+    .first-card-paragraph {
+        font-size: 14px;
+        line-height: 1.8;
+    }
+    
+    &:hover {
+        background-color: #2E2E2E;
+        color: white;
+        fill: white;
+    }
+}
+
+
+
+.residence-permits {
+    border: 2px solid #C9C9C9;
+    margin: 30px;
+    border-radius: 8px;
+    padding: 60px 40px 30px 30px;
+
+    svg {
+        width: 2em;
+        height: 2em;
+    }
+
+    .second-card-title {
+        font-size: 16px;
+        margin-top: 30px;
+    }
+
+    .second-card-paragraph {
+        font-size: 14px;
+        line-height: 1.8;
+    }
+
+    &:hover {
+        background-color: #2E2E2E;
+        color: white;
+    }
+}
+
+.advisory-complience-services {
+    border: 2px solid #C9C9C9;
+    margin: 30px;
+    border-radius: 8px;
+    padding: 60px 40px 30px 30px;
+
+    svg {
+        width: 2em;
+        height: 2em;
+    }
+
+    .third-card-title {
+        font-size: 16px;
+        margin-top: 30px;
+    }
+
+    .third-card-paragraph {
+        font-size: 14px;
+        line-height: 1.8;
+    }
+
+    &:hover {
+        background-color: #2E2E2E;
+        color: white;
+        fill: white;
+    }
+}
+
+
+// Responsive
+@media screen and (max-width: 1200px) {
+    .services-card {
+      margin: 50px 100px;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .services-card {
+      margin: 50px;
+    }
+}
+
+@media screen and (max-width: 882px) {
+    .services-card {
+      margin: 25px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .services-card {
+      grid-template-columns: auto;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .citizenship-by-investment, .residence-permits, .advisory-complience-services {
+        margin: 10px;
+    }
+}
+
+@media screen and (max-width: 350px) {
+    .citizenship-by-investment, .residence-permits, .advisory-complience-services {
+        padding: 40px 20px 20px 20px;
+    }
+}

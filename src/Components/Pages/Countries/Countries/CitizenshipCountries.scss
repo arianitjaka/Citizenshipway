@@ -1,0 +1,212 @@
+.countries {
+    margin-top: 100px;
+}
+
+.countries-title h1 {
+    width: max-content;
+    margin: auto;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+.countries-tabs {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 30px 500px auto 500px;
+
+    .citizenship-tab h1 {
+        font-size: 18px;
+        font-weight: 400;
+        border-bottom: 3px solid #C8A375;
+        padding-bottom: 15px;
+    }
+
+    .residence-tab h1 {
+        font-size: 18px;
+        font-weight: 400;
+        border-bottom: 3px solid #C7C7C7;
+        padding-bottom: 15px;
+    }
+}
+
+.european-citizenship, .caribbean-citizenship {
+    margin: 40px 80px;
+}
+
+.ec-title, .cc-title {
+    text-align: left;
+
+    h1 {
+        font-size: 22px;
+        font-weight: 600;
+        margin-left: 20px;
+    }
+}
+
+.ec-cities, .cc-cities {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+
+    .ec-cities-content, .cc-cities-content {
+        margin: 20px;
+        position: relative;
+        text-align: center;
+
+        img {
+            width: 100%;
+            filter: brightness(75%);
+        }
+
+        h1 {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 18px;
+            color: white;
+            font-weight: 600;
+        }
+    }
+
+    
+}
+
+.ec-special-city {
+    margin: 20px;
+        background-image: linear-gradient(
+        rgba(0, 0, 0, 0.6),
+        rgba(0, 0, 0, 0.6)
+    ), url('../../../../Assets/Countries/cities/austria.png');
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    padding: 20px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 8px      
+}
+
+.special-city-name h1 {
+        top: 20%;
+        font-size: 18px;
+        color: white;
+        font-weight: 600;
+}
+
+.special-city-info p {
+        margin: auto;
+        text-align: left;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 1.6;
+}
+
+.ec-city-more-info, .cc-city-more-info {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+
+    h1 {
+        font-size: 12px;
+    }
+
+    img {
+        margin-left: 10px;
+        width: 14px;
+    }
+}
+
+.countries-button {
+
+    .countries-btn-content {
+        border-radius: 50px;
+        border: 2px solid #2E2E2E;
+        background-color: transparent;
+
+        h1 {
+            font-size: 16px;
+            margin: 10px 20px;
+            color: #2E2E2E;
+        }
+
+        &:hover {
+            background-color: rgb(236, 236, 236);
+            cursor: pointer;
+        }
+    }
+}
+
+
+
+// Responsive
+@media (min-width: 1025px) and (max-width: 1280px) {
+    .countries-tabs {
+        margin: 30px 400px auto 400px;
+    }
+    .european-citizenship, .caribbean-citizenship {
+        margin: 40px 20px;
+    }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+    .countries-tabs {
+        margin: 30px 250px auto 250px;
+    }
+    .ec-cities, .cc-cities {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+    .countries-tabs {
+        margin: 30px 150px auto 150px;
+    }
+    .ec-cities, .cc-cities {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+    .european-citizenship, .caribbean-citizenship {
+        margin: 40px 20px;
+    }
+    .ec-special-city {
+        margin: 20px;
+        padding: 5px 15px;    
+    }
+    .special-city-name h1 {
+        font-size: 16px;
+    }
+    .special-city-info p {
+        font-size: 12px;
+    }
+}
+
+@media (min-width: 280px) and (max-width: 480px) {
+    .countries-tabs {
+        margin: 30px;
+    }
+    .ec-cities, .cc-cities {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    .european-citizenship, .caribbean-citizenship {
+        margin: 40px 20px;
+    }
+    .ec-cities-content, .cc-cities-content {
+        margin: 10px !important;
+    }
+    .ec-special-city {
+        margin: 10px;  
+    }
+    .special-city-name h1 {
+        font-size: 16px;
+        margin-top: 40px;
+    }
+    .special-city-info p {
+        font-size: 14px;
+        margin-bottom: 40px;
+        margin-top: 40px;
+    }
+}

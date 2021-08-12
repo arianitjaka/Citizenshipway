@@ -1,0 +1,35 @@
+.logo-div {
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+}
+
+.logo {
+    width: 30px;
+    height: 30px;
+}
+
+.logo-text {
+    color: white;
+    font-size: 1.5rem;
+    margin-left: 20px;
+    font-weight: 500;
+}
+
+@media(max-width:500px){
+    .logo-div {
+        margin-left: 25px;
+    }
+  }
+
+
+@media(max-width:350px){
+    .logo {
+        width: 20px;
+        height: 20px;
+    }
+    .logo-text {
+        font-size: 1rem;
+        margin-left: 10px;
+    }
+}
